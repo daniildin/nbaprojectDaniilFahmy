@@ -47,6 +47,4 @@ starting in the 2023-24 season, have been implemented under newly established
 salary cap rules and limitations at hand. One such effort/method made was the 
 creation of the second tax apron, which looks to significantly hamper teams that 
 would look to overspend in order to create their superteams in question.
-
-
 '''
