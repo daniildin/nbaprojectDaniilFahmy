@@ -1,0 +1,735 @@
+team,seasonStartYear,revenue
+New York Knicks,2000,$157M
+Los Angeles Lakers,2000,$144M
+Chicago Bulls,2000,$117M
+Portland Trail Blazers,2000,$103M
+Philadelphia 76ers,2000,$103M
+Phoenix Suns,2000,$102M
+Miami Heat,2000,$99M
+Houston Rockets,2000,$81M
+Indiana Pacers,2000,$89M
+Detroit Pistons,2000,$92M
+Utah Jazz,2000,$88M
+San Antonio Spurs,2000,$82M
+Boston Celtics,2000,$81M
+Washington Wizards,2000,$81M
+Dallas Mavericks,2000,$68M
+Sacramento Kings,2000,$87M
+Cleveland Cavaliers,2000,$75M
+Seattle SuperSonics,2000,$80M
+Atlanta Hawks,2000,$76M
+Denver Nuggets,2000,$72M
+Minnesota Timberwolves,2000,$77M
+Orlando Magic,2000,$76M
+Toronto Raptors,2000,$75M
+Los Angeles Clippers,2000,$68M
+New Jersey Nets,2000,$73M
+Golden State Warriors,2000,$69M
+Memphis Grizzlies,2000,$53M
+Milwaukee Bucks,2000,$65M
+Charlotte Hornets,2000,$65M
+New York Knicks,2001,$157M
+Los Angeles Lakers,2001,$144M
+Chicago Bulls,2001,$117M
+Portland Trail Blazers,2001,$103M
+Philadelphia 76ers,2001,$103M
+Phoenix Suns,2001,$102M
+Miami Heat,2001,$99M
+Houston Rockets,2001,$81M
+Indiana Pacers,2001,$89M
+Detroit Pistons,2001,$92M
+Utah Jazz,2001,$88M
+San Antonio Spurs,2001,$82M
+Boston Celtics,2001,$81M
+Washington Wizards,2001,$81M
+Dallas Mavericks,2001,$68M
+Sacramento Kings,2001,$87M
+Cleveland Cavaliers,2001,$75M
+Seattle SuperSonics,2001,$80M
+Atlanta Hawks,2001,$76M
+Denver Nuggets,2001,$72M
+Minnesota Timberwolves,2001,$77M
+Orlando Magic,2001,$76M
+Toronto Raptors,2001,$75M
+Los Angeles Clippers,2001,$68M
+New Jersey Nets,2001,$73M
+Golden State Warriors,2001,$69M
+Memphis Grizzlies,2001,$53M
+Milwaukee Bucks,2001,$65M
+Charlotte Hornets,2001,$65M
+Los Angeles Lakers,2002,$159M
+New York Knicks,2002,$170M
+Chicago Bulls,2002,$129M
+Dallas Mavericks,2002,$122M
+Philadelphia 76ers,2002,$118M
+Boston Celtics,2002,$113M
+Detroit Pistons,2002,$118M
+Phoenix Suns,2002,$115M
+San Antonio Spurs,2002,$113M
+Indiana Pacers,2002,$103M
+Washington Wizards,2002,$106M
+Cleveland Cavaliers,2002,$103M
+Toronto Raptors,2002,$106M
+New Jersey Nets,2002,$98M
+Utah Jazz,2002,$96M
+Miami Heat,2002,$95M
+Minnesota Timberwolves,2002,$94M
+Sacramento Kings,2002,$93M
+Denver Nuggets,2002,$92M
+New Orleans Hornets,2002,$92M
+Los Angeles Clippers,2002,$90M
+Atlanta Hawks,2002,$89M
+Orlando Magic,2002,$88M
+Golden State Warriors,2002,$87M
+Seattle SuperSonics,2002,$86M
+Milwaukee Bucks,2002,$85M
+Memphis Grizzlies,2002,$84M
+Portland Trail Blazers,2002,$83M
+Charlotte Bobcats,2002,$82M
+Los Angeles Lakers,2003,$149M
+New York Knicks,2003,$160M
+Chicago Bulls,2003,$119M
+Dallas Mavericks,2003,$117M
+Philadelphia 76ers,2003,$109M
+Boston Celtics,2003,$97M
+Detroit Pistons,2003,$102M
+San Antonio Spurs,2003,$105M
+Phoenix Suns,2003,$109M
+Indiana Pacers,2003,$94M
+Houston Rockets,2003,$82M
+Sacramento Kings,2003,$102M
+Washington Wizards,2003,$98M
+Cleveland Cavaliers,2003,$72M
+Toronto Raptors,2003,$96M
+New Jersey Nets,2003,$94M
+Utah Jazz,2003,$85M
+Miami Heat,2003,$91M
+Minnesota Timberwolves,2003,$85M
+Memphis Grizzlies,2003,$63M
+Denver Nuggets,2003,$75M
+New Orleans Hornets,2003,$80M
+Los Angeles Clippers,2003,$72M
+Atlanta Hawks,2003,$78M
+Orlando Magic,2003,$80M
+Seattle SuperSonics,2003,$70M
+Golden State Warriors,2003,$70M
+Milwaukee Bucks,2003,$70M
+New York Knicks,2004,$181M
+Los Angeles Lakers,2004,$156M
+Houston Rockets,2004,$141M
+Chicago Bulls,2004,$136M
+Dallas Mavericks,2004,$124M
+Detroit Pistons,2004,$134M
+Phoenix Suns,2004,$132M
+Miami Heat,2004,$119M
+Cleveland Cavaliers,2004,$102M
+Boston Celtics,2004,$110M
+Philadelphia 76ers,2004,$110M
+San Antonio Spurs,2004,$121M
+Sacramento Kings,2004,$119M
+Indiana Pacers,2004,$108M
+Washington Wizards,2004,$106M
+Minnesota Timberwolves,2004,$101M
+New Jersey Nets,2004,$87M
+Utah Jazz,2004,$91M
+Toronto Raptors,2004,$94M
+Atlanta Hawks,2004,$87M
+Los Angeles Clippers,2004,$83M
+Orlando Magic,2004,$82M
+Golden State Warriors,2004,$81M
+Seattle SuperSonics,2004,$81M
+Milwaukee Bucks,2004,$78M
+Portland Trail Blazers,2004,$78M
+Charlotte Bobcats,2004,$73M
+Memphis Grizzlies,2004,$98M
+New Orleans Hornets,2004,$78M
+New York Knicks,2005,$185M
+Los Angeles Lakers,2005,$168M
+Chicago Bulls,2005,$161M
+Detroit Pistons,2005,$154M
+Houston Rockets,2005,$149M
+Dallas Mavericks,2005,$140M
+Cleveland Cavaliers,2005,$152M
+Phoenix Suns,2005,$145M
+Miami Heat,2005,$131M
+San Antonio Spurs,2005,$131M
+Boston Celtics,2005,$117M
+Sacramento Kings,2005,$128M
+Philadelphia 76ers,2005,$112M
+Toronto Raptors,2005,$124M
+Washington Wizards,2005,$112M
+Utah Jazz,2005,$114M
+New Jersey Nets,2005,$102M
+Indiana Pacers,2005,$107M
+Orlando Magic,2005,$92M
+Denver Nuggets,2005,$104M
+Golden State Warriors,2005,$103M
+Minnesota Timberwolves,2005,$103M
+Memphis Grizzlies,2005,$98M
+Los Angeles Clippers,2005,$98M
+Charlotte Bobcats,2005,$93M
+Atlanta Hawks,2005,$95M
+New Orleans Hornets,2005,$91M
+Seattle SuperSonics,2005,$81M
+Milwaukee Bucks,2005,$88M
+Portland Trail Blazers,2005,$82M
+New York Knicks,2006,$196M
+Los Angeles Lakers,2006,$170M
+Chicago Bulls,2006,$161M
+Detroit Pistons,2006,$154M
+Houston Rockets,2006,$149M
+Dallas Mavericks,2006,$140M
+Cleveland Cavaliers,2006,$152M
+Phoenix Suns,2006,$145M
+Miami Heat,2006,$131M
+San Antonio Spurs,2006,$131M
+Boston Celtics,2006,$117M
+Sacramento Kings,2006,$128M
+Philadelphia 76ers,2006,$112M
+Toronto Raptors,2006,$124M
+Washington Wizards,2006,$112M
+Utah Jazz,2006,$114M
+New Jersey Nets,2006,$102M
+Indiana Pacers,2006,$107M
+Orlando Magic,2006,$92M
+Denver Nuggets,2006,$104M
+Golden State Warriors,2006,$103M
+Minnesota Timberwolves,2006,$103M
+Memphis Grizzlies,2006,$98M
+Los Angeles Clippers,2006,$98M
+Charlotte Bobcats,2006,$93M
+Atlanta Hawks,2006,$95M
+New Orleans Hornets,2006,$91M
+Seattle SuperSonics,2006,$81M
+Milwaukee Bucks,2006,$88M
+Portland Trail Blazers,2006,$82M
+New York Knicks,2007,$226M
+Los Angeles Lakers,2007,$214M
+Chicago Bulls,2007,$169M
+Houston Rockets,2007,$153M
+Phoenix Suns,2007,$147M
+Detroit Pistons,2007,$147M
+Dallas Mavericks,2007,$146M
+Boston Celtics,2007,$151M
+San Antonio Spurs,2007,$135M
+Toronto Raptors,2007,$138M
+Utah Jazz,2007,$121M
+Oklahoma City Thunder,2007,$118M
+Denver Nuggets,2007,$113M
+Orlando Magic,2007,$108M
+Atlanta Hawks,2007,$105M
+Washington Wizards,2007,$107M
+Cleveland Cavaliers,2007,$161M
+Philadelphia 76ers,2007,$110M
+Charlotte Bobcats,2007,$98M
+Milwaukee Bucks,2007,$92M
+Portland Trail Blazers,2007,$127M
+Golden State Warriors,2007,$119M
+Sacramento Kings,2007,$103M
+New Jersey Nets,2007,$89M
+Los Angeles Clippers,2007,$102M
+Minnesota Timberwolves,2007,$95M
+Memphis Grizzlies,2007,$92M
+New York Knicks,2008,$226M
+Los Angeles Lakers,2008,$214M
+Chicago Bulls,2008,$169M
+Houston Rockets,2008,$153M
+Phoenix Suns,2008,$147M
+Detroit Pistons,2008,$147M
+Dallas Mavericks,2008,$146M
+Boston Celtics,2008,$151M
+San Antonio Spurs,2008,$135M
+Toronto Raptors,2008,$138M
+Utah Jazz,2008,$121M
+Oklahoma City Thunder,2008,$118M
+Denver Nuggets,2008,$113M
+Orlando Magic,2008,$108M
+Atlanta Hawks,2008,$105M
+Washington Wizards,2008,$107M
+Cleveland Cavaliers,2008,$161M
+Philadelphia 76ers,2008,$110M
+Charlotte Bobcats,2008,$98M
+Milwaukee Bucks,2008,$92M
+Portland Trail Blazers,2008,$127M
+Golden State Warriors,2008,$119M
+Sacramento Kings,2008,$103M
+New Jersey Nets,2008,$89M
+Los Angeles Clippers,2008,$102M
+Minnesota Timberwolves,2008,$95M
+Memphis Grizzlies,2008,$92M
+New York Knicks,2009,$226M
+Los Angeles Lakers,2009,$214M
+Chicago Bulls,2009,$169M
+Philadelphia 76ers,2009,$110M
+Phoenix Suns,2009,$147M
+Detroit Pistons,2009,$147M
+Dallas Mavericks,2009,$146M
+Houston Rockets,2009,$153M
+Boston Celtics,2009,$151M
+San Antonio Spurs,2009,$131M
+Toronto Raptors,2009,$138M
+Orlando Magic,2009,$108M
+Washington Wizards,2009,$107M
+Utah Jazz,2009,$121M
+Cleveland Cavaliers,2009,$161M
+Indiana Pacers,2009,$95M
+Oklahoma City Thunder,2009,$118M
+Denver Nuggets,2009,$113M
+Charlotte Bobcats,2009,$98M
+Milwaukee Bucks,2009,$92M
+Portland Trail Blazers,2009,$127M
+Golden State Warriors,2009,$119M
+Atlanta Hawks,2009,$105M
+Sacramento Kings,2009,$103M
+New Jersey Nets,2009,$89M
+Minnesota Timberwolves,2009,$95M
+Memphis Grizzlies,2009,$92M
+Los Angeles Clippers,2009,$102M
+New York Knicks,2010,$226M
+Los Angeles Lakers,2010,$214M
+Chicago Bulls,2010,$169M
+Boston Celtics,2010,$151M
+Houston Rockets,2010,$153M
+Dallas Mavericks,2010,$146M
+Phoenix Suns,2010,$147M
+Detroit Pistons,2010,$147M
+Portland Trail Blazers,2010,$127M
+Toronto Raptors,2010,$138M
+Orlando Magic,2010,$108M
+Golden State Warriors,2010,$119M
+Cleveland Cavaliers,2010,$161M
+Utah Jazz,2010,$121M
+Philadelphia 76ers,2010,$110M
+Oklahoma City Thunder,2010,$118M
+Washington Wizards,2010,$107M
+Denver Nuggets,2010,$113M
+New Jersey Nets,2010,$89M
+Los Angeles Clippers,2010,$102M
+Atlanta Hawks,2010,$105M
+Sacramento Kings,2010,$103M
+Charlotte Bobcats,2010,$98M
+New Orleans Hornets,2010,$100M
+Indiana Pacers,2010,$95M
+Memphis Grizzlies,2010,$92M
+Minnesota Timberwolves,2010,$95M
+Milwaukee Bucks,2010,$92M
+Atlanta Hawks,2011,$109M
+Boston Celtics,2011,$146M
+Brooklyn Nets,2011,$89M
+Charlotte Hornets,2011,$101M
+Chicago Bulls,2011,$185M
+Cleveland Cavaliers,2011,$149M
+Dallas Mavericks,2011,$166M
+Denver Nuggets,2011,$113M
+Detroit Pistons,2011,$141M
+Golden State Warriors,2011,$139M
+Houston Rockets,2011,$150M
+Indiana Pacers,2011,$101M
+Los Angeles Clippers,2011,$108M
+Los Angeles Lakers,2011,$208M
+Memphis Grizzlies,2011,$99M
+Miami Heat,2011,$158M
+Milwaukee Bucks,2011,$92M
+Minnesota Timberwolves,2011,$97M
+New Orleans Pelicans,2011,$109M
+New York Knicks,2011,$244M
+Oklahoma City Thunder,2011,$126M
+Orlando Magic,2011,$140M
+Philadelphia 76ers,2011,$116M
+Phoenix Suns,2011,$136M
+Portland Trail Blazers,2011,$132M
+Sacramento Kings,2011,$104M
+San Antonio Spurs,2011,$139M
+Toronto Raptors,2011,$134M
+Utah Jazz,2011,$120M
+Washington Wizards,2011,$109M
+Atlanta Hawks,2012,$99M
+Boston Celtics,2012,$143M
+Brooklyn Nets,2012,$84M
+Charlotte Hornets,2012,$93M
+Chicago Bulls,2012,$162M
+Cleveland Cavaliers,2012,$128M
+Dallas Mavericks,2012,$137M
+Denver Nuggets,2012,$110M
+Detroit Pistons,2012,$125M
+Golden State Warriors,2012,$127M
+Houston Rockets,2012,$135M
+Indiana Pacers,2012,$98M
+Los Angeles Clippers,2012,$108M
+Los Angeles Lakers,2012,$197M
+Memphis Grizzlies,2012,$96M
+Miami Heat,2012,$150M
+Milwaukee Bucks,2012,$78M
+Minnesota Timberwolves,2012,$96M
+New Orleans Pelicans,2012,$100M
+New York Knicks,2012,$243M
+Oklahoma City Thunder,2012,$127M
+Orlando Magic,2012,$126M
+Philadelphia 76ers,2012,$107M
+Phoenix Suns,2012,$121M
+Portland Trail Blazers,2012,$117M
+Sacramento Kings,2012,$96M
+San Antonio Spurs,2012,$135M
+Toronto Raptors,2012,$121M
+Utah Jazz,2012,$111M
+Washington Wizards,2012,$102M
+Atlanta Hawks,2013,$119M
+Boston Celtics,2013,$169M
+Brooklyn Nets,2013,$190M
+Charlotte Hornets,2013,$115M
+Chicago Bulls,2013,$195M
+Cleveland Cavaliers,2013,$145M
+Dallas Mavericks,2013,$162M
+Denver Nuggets,2013,$124M
+Detroit Pistons,2013,$139M
+Golden State Warriors,2013,$160M
+Houston Rockets,2013,$191M
+Indiana Pacers,2013,$121M
+Los Angeles Clippers,2013,$128M
+Los Angeles Lakers,2013,$295M
+Memphis Grizzlies,2013,$126M
+Miami Heat,2013,$188M
+Milwaukee Bucks,2013,$109M
+Minnesota Timberwolves,2013,$116M
+New Orleans Pelicans,2013,$116M
+New York Knicks,2013,$287M
+Oklahoma City Thunder,2013,$144M
+Orlando Magic,2013,$139M
+Philadelphia 76ers,2013,$117M
+Phoenix Suns,2013,$137M
+Portland Trail Blazers,2013,$140M
+Sacramento Kings,2013,$115M
+San Antonio Spurs,2013,$167M
+Toronto Raptors,2013,$149M
+Utah Jazz,2013,$131M
+Washington Wizards,2013,$122M
+Atlanta Hawks,2014,$133M
+Boston Celtics,2014,$173M
+Brooklyn Nets,2014,$212M
+Charlotte Hornets,2014,$130M
+Chicago Bulls,2014,$201M
+Cleveland Cavaliers,2014,$149M
+Dallas Mavericks,2014,$168M
+Denver Nuggets,2014,$136M
+Detroit Pistons,2014,$144M
+Golden State Warriors,2014,$168M
+Houston Rockets,2014,$175M
+Indiana Pacers,2014,$139M
+Los Angeles Clippers,2014,$146M
+Los Angeles Lakers,2014,$293M
+Memphis Grizzlies,2014,$135M
+Miami Heat,2014,$188M
+Milwaukee Bucks,2014,$110M
+Minnesota Timberwolves,2014,$128M
+New Orleans Pelicans,2014,$131M
+New York Knicks,2014,$278M
+Oklahoma City Thunder,2014,$152M
+Orlando Magic,2014,$143M
+Philadelphia 76ers,2014,$125M
+Phoenix Suns,2014,$145M
+Portland Trail Blazers,2014,$153M
+Sacramento Kings,2014,$125M
+San Antonio Spurs,2014,$172M
+Toronto Raptors,2014,$151M
+Utah Jazz,2014,$142M
+Washington Wizards,2014,$143M
+Atlanta Hawks,2015,$142M
+Boston Celtics,2015,$181M
+Brooklyn Nets,2015,$220M
+Charlotte Hornets,2015,$142M
+Chicago Bulls,2015,$228M
+Cleveland Cavaliers,2015,$191M
+Dallas Mavericks,2015,$177M
+Denver Nuggets,2015,$140M
+Detroit Pistons,2015,$154M
+Golden State Warriors,2015,$201M
+Houston Rockets,2015,$237M
+Indiana Pacers,2015,$138M
+Los Angeles Clippers,2015,$176M
+Los Angeles Lakers,2015,$304M
+Memphis Grizzlies,2015,$147M
+Miami Heat,2015,$180M
+Milwaukee Bucks,2015,$126M
+Minnesota Timberwolves,2015,$146M
+New Orleans Pelicans,2015,$142M
+New York Knicks,2015,$307M
+Oklahoma City Thunder,2015,$157M
+Orlando Magic,2015,$143M
+Philadelphia 76ers,2015,$124M
+Phoenix Suns,2015,$154M
+Portland Trail Blazers,2015,$157M
+Sacramento Kings,2015,$141M
+San Antonio Spurs,2015,$170M
+Toronto Raptors,2015,$163M
+Utah Jazz,2015,$146M
+Washington Wizards,2015,$146M
+Atlanta Hawks,2016,$169M
+Boston Celtics,2016,$200M
+Brooklyn Nets,2016,$223M
+Charlotte Hornets,2016,$158M
+Chicago Bulls,2016,$232M
+Cleveland Cavaliers,2016,$233M
+Dallas Mavericks,2016,$194M
+Denver Nuggets,2016,$157M
+Detroit Pistons,2016,$172M
+Golden State Warriors,2016,$305M
+Houston Rockets,2016,$244M
+Indiana Pacers,2016,$157M
+Los Angeles Clippers,2016,$185M
+Los Angeles Lakers,2016,$333M
+Memphis Grizzlies,2016,$155M
+Miami Heat,2016,$210M
+Milwaukee Bucks,2016,$146M
+Minnesota Timberwolves,2016,$154M
+New Orleans Pelicans,2016,$156M
+New York Knicks,2016,$376M
+Oklahoma City Thunder,2016,$187M
+Orlando Magic,2016,$166M
+Philadelphia 76ers,2016,$140M
+Phoenix Suns,2016,$173M
+Portland Trail Blazers,2016,$178M
+Sacramento Kings,2016,$164M
+San Antonio Spurs,2016,$187M
+Toronto Raptors,2016,$193M
+Utah Jazz,2016,$164M
+Washington Wizards,2016,$155M
+Atlanta Hawks,2017,$209M
+Boston Celtics,2017,$257M
+Brooklyn Nets,2017,$273M
+Charlotte Hornets,2017,$202M
+Chicago Bulls,2017,$281M
+Cleveland Cavaliers,2017,$280M
+Dallas Mavericks,2017,$233M
+Denver Nuggets,2017,$202M
+Detroit Pistons,2017,$221M
+Golden State Warriors,2017,$359M
+Houston Rockets,2017,$296M
+Indiana Pacers,2017,$205M
+Los Angeles Clippers,2017,$257M
+Los Angeles Lakers,2017,$371M
+Memphis Grizzlies,2017,$206M
+Miami Heat,2017,$253M
+Milwaukee Bucks,2017,$179M
+Minnesota Timberwolves,2017,$204M
+New Orleans Pelicans,2017,$204M
+New York Knicks,2017,$426M
+Oklahoma City Thunder,2017,$222M
+Orlando Magic,2017,$211M
+Philadelphia 76ers,2017,$184M
+Phoenix Suns,2017,$218M
+Portland Trail Blazers,2017,$223M
+Sacramento Kings,2017,$240M
+San Antonio Spurs,2017,$259M
+Toronto Raptors,2017,$250M
+Utah Jazz,2017,$221M
+Washington Wizards,2017,$222M
+Atlanta Hawks,2018,$215M
+Boston Celtics,2018,$287M
+Brooklyn Nets,2018,$290M
+Charlotte Hornets,2018,$213M
+Chicago Bulls,2018,$287M
+Cleveland Cavaliers,2018,$302M
+Dallas Mavericks,2018,$287M
+Denver Nuggets,2018,$222M
+Detroit Pistons,2018,$235M
+Golden State Warriors,2018,$401M
+Houston Rockets,2018,$326M
+Indiana Pacers,2018,$222M
+Los Angeles Clippers,2018,$258M
+Los Angeles Lakers,2018,$395M
+Memphis Grizzlies,2018,$213M
+Miami Heat,2018,$259M
+Milwaukee Bucks,2018,$204M
+Minnesota Timberwolves,2018,$223M
+New Orleans Pelicans,2018,$214M
+New York Knicks,2018,$443M
+Oklahoma City Thunder,2018,$241M
+Orlando Magic,2018,$223M
+Philadelphia 76ers,2018,$268M
+Phoenix Suns,2018,$235M
+Portland Trail Blazers,2018,$246M
+Sacramento Kings,2018,$263M
+San Antonio Spurs,2018,$262M
+Toronto Raptors,2018,$275M
+Utah Jazz,2018,$243M
+Washington Wizards,2018,$255M
+Atlanta Hawks,2019,$251M
+Boston Celtics,2019,$304M
+Brooklyn Nets,2019,$304M
+Charlotte Hornets,2019,$240M
+Chicago Bulls,2019,$301M
+Cleveland Cavaliers,2019,$300M
+Dallas Mavericks,2019,$307M
+Denver Nuggets,2019,$252M
+Detroit Pistons,2019,$255M
+Golden State Warriors,2019,$440M
+Houston Rockets,2019,$348M
+Indiana Pacers,2019,$243M
+Los Angeles Clippers,2019,$282M
+Los Angeles Lakers,2019,$434M
+Memphis Grizzlies,2019,$224M
+Miami Heat,2019,$294M
+Milwaukee Bucks,2019,$283M
+Minnesota Timberwolves,2019,$234M
+New Orleans Pelicans,2019,$224M
+New York Knicks,2019,$472M
+Oklahoma City Thunder,2019,$258M
+Orlando Magic,2019,$244M
+Philadelphia 76ers,2019,$300M
+Phoenix Suns,2019,$246M
+Portland Trail Blazers,2019,$287M
+Sacramento Kings,2019,$286M
+San Antonio Spurs,2019,$285M
+Toronto Raptors,2019,$334M
+Utah Jazz,2019,$258M
+Washington Wizards,2019,$269M
+Atlanta Hawks,2020,$222M
+Boston Celtics,2020,$274M
+Brooklyn Nets,2020,$280M
+Charlotte Hornets,2020,$215M
+Chicago Bulls,2020,$300M
+Cleveland Cavaliers,2020,$269M
+Dallas Mavericks,2020,$295M
+Denver Nuggets,2020,$218M
+Detroit Pistons,2020,$227M
+Golden State Warriors,2020,$474M
+Houston Rockets,2020,$308M
+Indiana Pacers,2020,$217M
+Los Angeles Clippers,2020,$262M
+Los Angeles Lakers,2020,$400M
+Memphis Grizzlies,2020,$210M
+Miami Heat,2020,$266M
+Milwaukee Bucks,2020,$239M
+Minnesota Timberwolves,2020,$214M
+New Orleans Pelicans,2020,$209M
+New York Knicks,2020,$421M
+Oklahoma City Thunder,2020,$236M
+Orlando Magic,2020,$218M
+Philadelphia 76ers,2020,$259M
+Phoenix Suns,2020,$222M
+Portland Trail Blazers,2020,$240M
+Sacramento Kings,2020,$245M
+San Antonio Spurs,2020,$255M
+Toronto Raptors,2020,$264M
+Utah Jazz,2020,$226M
+Washington Wizards,2020,$231M
+Atlanta Hawks,2021,$199M
+Boston Celtics,2021,$211M
+Brooklyn Nets,2021,$212M
+Charlotte Hornets,2021,$183M
+Chicago Bulls,2021,$213M
+Cleveland Cavaliers,2021,$211M
+Dallas Mavericks,2021,$231M
+Denver Nuggets,2021,$185M
+Detroit Pistons,2021,$192M
+Golden State Warriors,2021,$258M
+Houston Rockets,2021,$223M
+Indiana Pacers,2021,$179M
+Los Angeles Clippers,2021,$219M
+Los Angeles Lakers,2021,$316M
+Memphis Grizzlies,2021,$186M
+Miami Heat,2021,$218M
+Milwaukee Bucks,2021,$212M
+Minnesota Timberwolves,2021,$199M
+New Orleans Pelicans,2021,$181M
+New York Knicks,2021,$298M
+Oklahoma City Thunder,2021,$183M
+Orlando Magic,2021,$188M
+Philadelphia 76ers,2021,$236M
+Phoenix Suns,2021,$206M
+Portland Trail Blazers,2021,$201M
+Sacramento Kings,2021,$192M
+San Antonio Spurs,2021,$205M
+Toronto Raptors,2021,$194M
+Utah Jazz,2021,$262M
+Washington Wizards,2021,$213M
+Atlanta Hawks,2022,$326M
+Boston Celtics,2022,$443M
+Brooklyn Nets,2022,$367M
+Charlotte Hornets,2022,$269M
+Chicago Bulls,2022,$372M
+Cleveland Cavaliers,2022,$348M
+Dallas Mavericks,2022,$429M
+Denver Nuggets,2022,$348M
+Detroit Pistons,2022,$274M
+Golden State Warriors,2022,$765M
+Houston Rockets,2022,$381M
+Indiana Pacers,2022,$263M
+Los Angeles Clippers,2022,$425M
+Los Angeles Lakers,2022,$516M
+Memphis Grizzlies,2022,$258M
+Miami Heat,2022,$371M
+Milwaukee Bucks,2022,$329M
+Minnesota Timberwolves,2022,$259M
+New Orleans Pelicans,2022,$262M
+New York Knicks,2022,$504M
+Oklahoma City Thunder,2022,$267M
+Orlando Magic,2022,$261M
+Philadelphia 76ers,2022,$371M
+Phoenix Suns,2022,$366M
+Portland Trail Blazers,2022,$300M
+Sacramento Kings,2022,$289M
+San Antonio Spurs,2022,$319M
+Toronto Raptors,2022,$305M
+Utah Jazz,2022,$274M
+Washington Wizards,2022,$323M
+Atlanta Hawks,2023,$353M
+Boston Celtics,2023,$457M
+Brooklyn Nets,2023,$381M
+Charlotte Hornets,2023,$308M
+Chicago Bulls,2023,$414M
+Cleveland Cavaliers,2023,$391M
+Dallas Mavericks,2023,$437M
+Denver Nuggets,2023,$356M
+Detroit Pistons,2023,$305M
+Golden State Warriors,2023,$800M
+Houston Rockets,2023,$416M
+Indiana Pacers,2023,$320M
+Los Angeles Clippers,2023,$353M
+Los Angeles Lakers,2023,$522M
+Memphis Grizzlies,2023,$291M
+Miami Heat,2023,$371M
+Milwaukee Bucks,2023,$333M
+Minnesota Timberwolves,2023,$305M
+New Orleans Pelicans,2023,$272M
+New York Knicks,2023,$543M
+Oklahoma City Thunder,2023,$320M
+Orlando Magic,2023,$285M
+Philadelphia 76ers,2023,$396M
+Phoenix Suns,2023,$369M
+Portland Trail Blazers,2023,$335M
+Sacramento Kings,2023,$320M
+San Antonio Spurs,2023,$363M
+Toronto Raptors,2023,$341M
+Utah Jazz,2023,$318M
+Washington Wizards,2023,$362M
+Atlanta Hawks,2024,$384M
+Boston Celtics,2024,$452M
+Brooklyn Nets,2024,$389M
+Charlotte Hornets,2024,$304M
+Chicago Bulls,2024,$402M
+Cleveland Cavaliers,2024,$406M
+Dallas Mavericks,2024,$430M
+Denver Nuggets,2024,$386M
+Detroit Pistons,2024,$306M
+Golden State Warriors,2024,$781M
+Houston Rockets,2024,$402M
+Indiana Pacers,2024,$339M
+Los Angeles Clippers,2024,$351M
+Los Angeles Lakers,2024,$528M
+Memphis Grizzlies,2024,$299M
+Miami Heat,2024,$394M
+Milwaukee Bucks,2024,$350M
+Minnesota Timberwolves,2024,$328M
+New Orleans Pelicans,2024,$311M
+New York Knicks,2024,$578M
+Oklahoma City Thunder,2024,$321M
+Orlando Magic,2024,$317M
+Philadelphia 76ers,2024,$394M
+Phoenix Suns,2024,$377M
+Portland Trail Blazers,2024,$339M
+Sacramento Kings,2024,$425M
+San Antonio Spurs,2024,$344M
+Toronto Raptors,2024,$349M
+Utah Jazz,2024,$367M
+Washington Wizards,2024,$357M
