@@ -1,0 +1,797 @@
+Team,Wins,Losses,Season
+Team,,,2000-2001
+San Antonio Spurs,58.0,24.0,2000-2001
+Sacramento Kings,55.0,27.0,2000-2001
+Utah Jazz,53.0,29.0,2000-2001
+Philadelphia 76ers,56.0,26.0,2000-2001
+Portland Trail Blazers,50.0,32.0,2000-2001
+Dallas Mavericks,53.0,29.0,2000-2001
+Milwaukee Bucks,52.0,30.0,2000-2001
+Los Angeles Lakers,56.0,26.0,2000-2001
+New York Knicks,48.0,34.0,2000-2001
+Miami Heat,50.0,32.0,2000-2001
+Toronto Raptors,47.0,35.0,2000-2001
+Houston Rockets,45.0,37.0,2000-2001
+Charlotte Hornets,46.0,36.0,2000-2001
+Phoenix Suns,51.0,31.0,2000-2001
+Minnesota Timberwolves,47.0,35.0,2000-2001
+Orlando Magic,43.0,39.0,2000-2001
+Seattle SuperSonics,44.0,38.0,2000-2001
+Indiana Pacers,41.0,41.0,2000-2001
+Detroit Pistons,32.0,50.0,2000-2001
+Boston Celtics,36.0,46.0,2000-2001
+Denver Nuggets,40.0,42.0,2000-2001
+Los Angeles Clippers,31.0,51.0,2000-2001
+Cleveland Cavaliers,30.0,52.0,2000-2001
+New Jersey Nets,26.0,56.0,2000-2001
+Atlanta Hawks,25.0,57.0,2000-2001
+Vancouver Grizzlies,23.0,59.0,2000-2001
+Washington Wizards,19.0,63.0,2000-2001
+Golden State Warriors,17.0,65.0,2000-2001
+Chicago Bulls,15.0,67.0,2000-2001
+League Average,,,2000-2001
+Team,,,2001-2002
+Sacramento Kings,61.0,21.0,2001-2002
+Los Angeles Lakers,58.0,24.0,2001-2002
+San Antonio Spurs,58.0,24.0,2001-2002
+New Jersey Nets,52.0,30.0,2001-2002
+Dallas Mavericks,57.0,25.0,2001-2002
+Minnesota Timberwolves,50.0,32.0,2001-2002
+Portland Trail Blazers,49.0,33.0,2001-2002
+Seattle SuperSonics,45.0,37.0,2001-2002
+Boston Celtics,49.0,33.0,2001-2002
+Detroit Pistons,50.0,32.0,2001-2002
+Philadelphia 76ers,43.0,39.0,2001-2002
+Orlando Magic,44.0,38.0,2001-2002
+Utah Jazz,44.0,38.0,2001-2002
+Charlotte Hornets,44.0,38.0,2001-2002
+Indiana Pacers,42.0,40.0,2001-2002
+Milwaukee Bucks,41.0,41.0,2001-2002
+Los Angeles Clippers,39.0,43.0,2001-2002
+Toronto Raptors,42.0,40.0,2001-2002
+Phoenix Suns,36.0,46.0,2001-2002
+Washington Wizards,37.0,45.0,2001-2002
+Miami Heat,36.0,46.0,2001-2002
+Cleveland Cavaliers,29.0,53.0,2001-2002
+New York Knicks,30.0,52.0,2001-2002
+Atlanta Hawks,33.0,49.0,2001-2002
+Houston Rockets,28.0,54.0,2001-2002
+Golden State Warriors,21.0,61.0,2001-2002
+Denver Nuggets,27.0,55.0,2001-2002
+Memphis Grizzlies,23.0,59.0,2001-2002
+Chicago Bulls,21.0,61.0,2001-2002
+League Average,,,2001-2002
+Team,,,2002-2003
+Dallas Mavericks,60.0,22.0,2002-2003
+Sacramento Kings,59.0,23.0,2002-2003
+San Antonio Spurs,60.0,22.0,2002-2003
+New Jersey Nets,49.0,33.0,2002-2003
+Detroit Pistons,50.0,32.0,2002-2003
+Indiana Pacers,48.0,34.0,2002-2003
+Portland Trail Blazers,50.0,32.0,2002-2003
+Utah Jazz,47.0,35.0,2002-2003
+Los Angeles Lakers,50.0,32.0,2002-2003
+Philadelphia 76ers,48.0,34.0,2002-2003
+Minnesota Timberwolves,51.0,31.0,2002-2003
+New Orleans Hornets,47.0,35.0,2002-2003
+Houston Rockets,43.0,39.0,2002-2003
+Phoenix Suns,44.0,38.0,2002-2003
+Orlando Magic,42.0,40.0,2002-2003
+Milwaukee Bucks,42.0,40.0,2002-2003
+Seattle SuperSonics,40.0,42.0,2002-2003
+Boston Celtics,44.0,38.0,2002-2003
+Washington Wizards,37.0,45.0,2002-2003
+Golden State Warriors,38.0,44.0,2002-2003
+New York Knicks,37.0,45.0,2002-2003
+Memphis Grizzlies,28.0,54.0,2002-2003
+Atlanta Hawks,35.0,47.0,2002-2003
+Los Angeles Clippers,27.0,55.0,2002-2003
+Chicago Bulls,30.0,52.0,2002-2003
+Miami Heat,25.0,57.0,2002-2003
+Toronto Raptors,24.0,58.0,2002-2003
+Denver Nuggets,17.0,65.0,2002-2003
+Cleveland Cavaliers,17.0,65.0,2002-2003
+League Average,,,2002-2003
+Team,,,2003-2004
+San Antonio Spurs,57.0,25.0,2003-2004
+Detroit Pistons,54.0,28.0,2003-2004
+Indiana Pacers,61.0,21.0,2003-2004
+Minnesota Timberwolves,58.0,24.0,2003-2004
+Sacramento Kings,55.0,27.0,2003-2004
+Dallas Mavericks,52.0,30.0,2003-2004
+Los Angeles Lakers,56.0,26.0,2003-2004
+New Jersey Nets,47.0,35.0,2003-2004
+Memphis Grizzlies,50.0,32.0,2003-2004
+Houston Rockets,45.0,37.0,2003-2004
+Denver Nuggets,43.0,39.0,2003-2004
+Milwaukee Bucks,41.0,41.0,2003-2004
+Miami Heat,42.0,40.0,2003-2004
+New Orleans Hornets,41.0,41.0,2003-2004
+Seattle SuperSonics,37.0,45.0,2003-2004
+Golden State Warriors,37.0,45.0,2003-2004
+Portland Trail Blazers,41.0,41.0,2003-2004
+Utah Jazz,42.0,40.0,2003-2004
+Boston Celtics,36.0,46.0,2003-2004
+New York Knicks,39.0,43.0,2003-2004
+Philadelphia 76ers,33.0,49.0,2003-2004
+Cleveland Cavaliers,35.0,47.0,2003-2004
+Toronto Raptors,33.0,49.0,2003-2004
+Phoenix Suns,29.0,53.0,2003-2004
+Los Angeles Clippers,28.0,54.0,2003-2004
+Atlanta Hawks,28.0,54.0,2003-2004
+Washington Wizards,25.0,57.0,2003-2004
+Chicago Bulls,23.0,59.0,2003-2004
+Orlando Magic,21.0,61.0,2003-2004
+League Average,,,2003-2004
+Team,,,2004-2005
+San Antonio Spurs,59.0,23.0,2004-2005
+Phoenix Suns,62.0,20.0,2004-2005
+Miami Heat,59.0,23.0,2004-2005
+Dallas Mavericks,58.0,24.0,2004-2005
+Houston Rockets,51.0,31.0,2004-2005
+Detroit Pistons,54.0,28.0,2004-2005
+Seattle SuperSonics,52.0,30.0,2004-2005
+Memphis Grizzlies,45.0,37.0,2004-2005
+Sacramento Kings,50.0,32.0,2004-2005
+Denver Nuggets,49.0,33.0,2004-2005
+Minnesota Timberwolves,44.0,38.0,2004-2005
+Chicago Bulls,47.0,35.0,2004-2005
+Boston Celtics,45.0,37.0,2004-2005
+Cleveland Cavaliers,42.0,40.0,2004-2005
+Indiana Pacers,44.0,38.0,2004-2005
+Washington Wizards,45.0,37.0,2004-2005
+Philadelphia 76ers,43.0,39.0,2004-2005
+Los Angeles Clippers,37.0,45.0,2004-2005
+New Jersey Nets,42.0,40.0,2004-2005
+Toronto Raptors,33.0,49.0,2004-2005
+Golden State Warriors,34.0,48.0,2004-2005
+Orlando Magic,36.0,46.0,2004-2005
+New York Knicks,33.0,49.0,2004-2005
+Milwaukee Bucks,30.0,52.0,2004-2005
+Los Angeles Lakers,34.0,48.0,2004-2005
+Portland Trail Blazers,27.0,55.0,2004-2005
+Utah Jazz,26.0,56.0,2004-2005
+Charlotte Bobcats,18.0,64.0,2004-2005
+New Orleans Hornets,18.0,64.0,2004-2005
+Atlanta Hawks,13.0,69.0,2004-2005
+League Average,,,2004-2005
+Team,,,2005-2006
+San Antonio Spurs,63.0,19.0,2005-2006
+Detroit Pistons,64.0,18.0,2005-2006
+Dallas Mavericks,60.0,22.0,2005-2006
+Phoenix Suns,54.0,28.0,2005-2006
+Memphis Grizzlies,49.0,33.0,2005-2006
+Miami Heat,52.0,30.0,2005-2006
+Los Angeles Lakers,45.0,37.0,2005-2006
+Cleveland Cavaliers,50.0,32.0,2005-2006
+Indiana Pacers,41.0,41.0,2005-2006
+Washington Wizards,42.0,40.0,2005-2006
+Sacramento Kings,44.0,38.0,2005-2006
+Los Angeles Clippers,47.0,35.0,2005-2006
+New Jersey Nets,49.0,33.0,2005-2006
+Chicago Bulls,41.0,41.0,2005-2006
+Denver Nuggets,44.0,38.0,2005-2006
+Milwaukee Bucks,40.0,42.0,2005-2006
+Orlando Magic,36.0,46.0,2005-2006
+Golden State Warriors,34.0,48.0,2005-2006
+Houston Rockets,34.0,48.0,2005-2006
+Boston Celtics,33.0,49.0,2005-2006
+Minnesota Timberwolves,33.0,49.0,2005-2006
+Philadelphia 76ers,38.0,44.0,2005-2006
+Utah Jazz,41.0,41.0,2005-2006
+New Orleans/Oklahoma City Hornets,38.0,44.0,2005-2006
+Toronto Raptors,27.0,55.0,2005-2006
+Seattle SuperSonics,35.0,47.0,2005-2006
+Charlotte Bobcats,26.0,56.0,2005-2006
+Atlanta Hawks,26.0,56.0,2005-2006
+New York Knicks,23.0,59.0,2005-2006
+Portland Trail Blazers,21.0,61.0,2005-2006
+League Average,,,2005-2006
+Team,,,2006-2007
+San Antonio Spurs,58.0,24.0,2006-2007
+Dallas Mavericks,67.0,15.0,2006-2007
+Phoenix Suns,61.0,21.0,2006-2007
+Chicago Bulls,49.0,33.0,2006-2007
+Houston Rockets,52.0,30.0,2006-2007
+Detroit Pistons,53.0,29.0,2006-2007
+Cleveland Cavaliers,50.0,32.0,2006-2007
+Utah Jazz,51.0,31.0,2006-2007
+Denver Nuggets,45.0,37.0,2006-2007
+Toronto Raptors,47.0,35.0,2006-2007
+Orlando Magic,40.0,42.0,2006-2007
+Los Angeles Lakers,42.0,40.0,2006-2007
+Golden State Warriors,42.0,40.0,2006-2007
+Washington Wizards,41.0,41.0,2006-2007
+Los Angeles Clippers,40.0,42.0,2006-2007
+New Jersey Nets,41.0,41.0,2006-2007
+Miami Heat,44.0,38.0,2006-2007
+New Orleans/Oklahoma City Hornets,39.0,43.0,2006-2007
+Sacramento Kings,33.0,49.0,2006-2007
+Indiana Pacers,35.0,47.0,2006-2007
+Seattle SuperSonics,31.0,51.0,2006-2007
+New York Knicks,33.0,49.0,2006-2007
+Philadelphia 76ers,35.0,47.0,2006-2007
+Boston Celtics,24.0,58.0,2006-2007
+Minnesota Timberwolves,32.0,50.0,2006-2007
+Charlotte Bobcats,33.0,49.0,2006-2007
+Milwaukee Bucks,28.0,54.0,2006-2007
+Portland Trail Blazers,32.0,50.0,2006-2007
+Atlanta Hawks,30.0,52.0,2006-2007
+Memphis Grizzlies,22.0,60.0,2006-2007
+League Average,,,2006-2007
+Team,,,2007-2008
+Boston Celtics,66.0,16.0,2007-2008
+Detroit Pistons,59.0,23.0,2007-2008
+Los Angeles Lakers,57.0,25.0,2007-2008
+Utah Jazz,54.0,28.0,2007-2008
+Orlando Magic,52.0,30.0,2007-2008
+New Orleans Hornets,56.0,26.0,2007-2008
+San Antonio Spurs,56.0,26.0,2007-2008
+Houston Rockets,55.0,27.0,2007-2008
+Phoenix Suns,55.0,27.0,2007-2008
+Dallas Mavericks,51.0,31.0,2007-2008
+Denver Nuggets,50.0,32.0,2007-2008
+Toronto Raptors,41.0,41.0,2007-2008
+Golden State Warriors,48.0,34.0,2007-2008
+Philadelphia 76ers,40.0,42.0,2007-2008
+Washington Wizards,43.0,39.0,2007-2008
+Cleveland Cavaliers,45.0,37.0,2007-2008
+Portland Trail Blazers,41.0,41.0,2007-2008
+Indiana Pacers,36.0,46.0,2007-2008
+Atlanta Hawks,37.0,45.0,2007-2008
+Sacramento Kings,38.0,44.0,2007-2008
+Chicago Bulls,33.0,49.0,2007-2008
+Charlotte Bobcats,32.0,50.0,2007-2008
+New Jersey Nets,34.0,48.0,2007-2008
+Memphis Grizzlies,22.0,60.0,2007-2008
+New York Knicks,23.0,59.0,2007-2008
+Minnesota Timberwolves,22.0,60.0,2007-2008
+Milwaukee Bucks,26.0,56.0,2007-2008
+Los Angeles Clippers,23.0,59.0,2007-2008
+Seattle SuperSonics,20.0,62.0,2007-2008
+Miami Heat,15.0,67.0,2007-2008
+League Average,,,2007-2008
+Team,,,2008-2009
+Cleveland Cavaliers,66.0,16.0,2008-2009
+Boston Celtics,62.0,20.0,2008-2009
+Los Angeles Lakers,65.0,17.0,2008-2009
+Orlando Magic,59.0,23.0,2008-2009
+Portland Trail Blazers,54.0,28.0,2008-2009
+Houston Rockets,53.0,29.0,2008-2009
+San Antonio Spurs,54.0,28.0,2008-2009
+Denver Nuggets,54.0,28.0,2008-2009
+Utah Jazz,48.0,34.0,2008-2009
+Dallas Mavericks,50.0,32.0,2008-2009
+Phoenix Suns,46.0,36.0,2008-2009
+Atlanta Hawks,47.0,35.0,2008-2009
+New Orleans Hornets,49.0,33.0,2008-2009
+Miami Heat,43.0,39.0,2008-2009
+Philadelphia 76ers,41.0,41.0,2008-2009
+Chicago Bulls,41.0,41.0,2008-2009
+Detroit Pistons,39.0,43.0,2008-2009
+Indiana Pacers,36.0,46.0,2008-2009
+Milwaukee Bucks,34.0,48.0,2008-2009
+Charlotte Bobcats,35.0,47.0,2008-2009
+New York Knicks,32.0,50.0,2008-2009
+New Jersey Nets,34.0,48.0,2008-2009
+Toronto Raptors,33.0,49.0,2008-2009
+Golden State Warriors,29.0,53.0,2008-2009
+Minnesota Timberwolves,24.0,58.0,2008-2009
+Memphis Grizzlies,24.0,58.0,2008-2009
+Oklahoma City Thunder,23.0,59.0,2008-2009
+Washington Wizards,19.0,63.0,2008-2009
+Sacramento Kings,17.0,65.0,2008-2009
+Los Angeles Clippers,19.0,63.0,2008-2009
+League Average,,,2008-2009
+Team,,,2009-2010
+Orlando Magic,59.0,23.0,2009-2010
+Cleveland Cavaliers,61.0,21.0,2009-2010
+Utah Jazz,53.0,29.0,2009-2010
+San Antonio Spurs,50.0,32.0,2009-2010
+Atlanta Hawks,53.0,29.0,2009-2010
+Phoenix Suns,54.0,28.0,2009-2010
+Los Angeles Lakers,57.0,25.0,2009-2010
+Denver Nuggets,53.0,29.0,2009-2010
+Boston Celtics,50.0,32.0,2009-2010
+Portland Trail Blazers,50.0,32.0,2009-2010
+Oklahoma City Thunder,50.0,32.0,2009-2010
+Dallas Mavericks,55.0,27.0,2009-2010
+Miami Heat,47.0,35.0,2009-2010
+Milwaukee Bucks,46.0,36.0,2009-2010
+Charlotte Bobcats,44.0,38.0,2009-2010
+Houston Rockets,42.0,40.0,2009-2010
+Memphis Grizzlies,40.0,42.0,2009-2010
+Chicago Bulls,41.0,41.0,2009-2010
+Toronto Raptors,40.0,42.0,2009-2010
+New Orleans Hornets,37.0,45.0,2009-2010
+Indiana Pacers,32.0,50.0,2009-2010
+Golden State Warriors,26.0,56.0,2009-2010
+New York Knicks,29.0,53.0,2009-2010
+Philadelphia 76ers,27.0,55.0,2009-2010
+Sacramento Kings,25.0,57.0,2009-2010
+Washington Wizards,26.0,56.0,2009-2010
+Detroit Pistons,27.0,55.0,2009-2010
+Los Angeles Clippers,29.0,53.0,2009-2010
+Minnesota Timberwolves,15.0,67.0,2009-2010
+New Jersey Nets,12.0,70.0,2009-2010
+League Average,,,2009-2010
+Team,,,2010-2011
+Miami Heat,58.0,24.0,2010-2011
+Chicago Bulls,62.0,20.0,2010-2011
+Los Angeles Lakers,57.0,25.0,2010-2011
+San Antonio Spurs,61.0,21.0,2010-2011
+Boston Celtics,56.0,26.0,2010-2011
+Orlando Magic,52.0,30.0,2010-2011
+Denver Nuggets,50.0,32.0,2010-2011
+Dallas Mavericks,57.0,25.0,2010-2011
+Oklahoma City Thunder,55.0,27.0,2010-2011
+Memphis Grizzlies,46.0,36.0,2010-2011
+Houston Rockets,43.0,39.0,2010-2011
+Portland Trail Blazers,48.0,34.0,2010-2011
+Philadelphia 76ers,41.0,41.0,2010-2011
+New Orleans Hornets,46.0,36.0,2010-2011
+New York Knicks,42.0,40.0,2010-2011
+Milwaukee Bucks,35.0,47.0,2010-2011
+Phoenix Suns,40.0,42.0,2010-2011
+Atlanta Hawks,44.0,38.0,2010-2011
+Indiana Pacers,37.0,45.0,2010-2011
+Utah Jazz,39.0,43.0,2010-2011
+Golden State Warriors,36.0,46.0,2010-2011
+Los Angeles Clippers,32.0,50.0,2010-2011
+Detroit Pistons,30.0,52.0,2010-2011
+Charlotte Bobcats,34.0,48.0,2010-2011
+Sacramento Kings,24.0,58.0,2010-2011
+New Jersey Nets,24.0,58.0,2010-2011
+Toronto Raptors,22.0,60.0,2010-2011
+Minnesota Timberwolves,17.0,65.0,2010-2011
+Washington Wizards,23.0,59.0,2010-2011
+Cleveland Cavaliers,19.0,63.0,2010-2011
+League Average,,,2010-2011
+Team,,,2011-2012
+Charlotte Bobcats,7.0,59.0,2011-2012
+Cleveland Cavaliers,21.0,45.0,2011-2012
+New Jersey Nets,22.0,44.0,2011-2012
+Sacramento Kings,22.0,44.0,2011-2012
+Washington Wizards,20.0,46.0,2011-2012
+Detroit Pistons,25.0,41.0,2011-2012
+New Orleans Hornets,21.0,45.0,2011-2012
+Golden State Warriors,23.0,43.0,2011-2012
+Toronto Raptors,23.0,43.0,2011-2012
+Minnesota Timberwolves,26.0,40.0,2011-2012
+Phoenix Suns,33.0,33.0,2011-2012
+Portland Trail Blazers,28.0,38.0,2011-2012
+Utah Jazz,36.0,30.0,2011-2012
+Milwaukee Bucks,31.0,35.0,2011-2012
+Houston Rockets,34.0,32.0,2011-2012
+Dallas Mavericks,36.0,30.0,2011-2012
+Orlando Magic,37.0,29.0,2011-2012
+Los Angeles Lakers,41.0,25.0,2011-2012
+Memphis Grizzlies,41.0,25.0,2011-2012
+Denver Nuggets,38.0,28.0,2011-2012
+Boston Celtics,39.0,27.0,2011-2012
+Los Angeles Clippers,40.0,26.0,2011-2012
+Atlanta Hawks,40.0,26.0,2011-2012
+Indiana Pacers,42.0,24.0,2011-2012
+New York Knicks,36.0,30.0,2011-2012
+Philadelphia 76ers,35.0,31.0,2011-2012
+Oklahoma City Thunder,47.0,19.0,2011-2012
+Miami Heat,46.0,20.0,2011-2012
+San Antonio Spurs,50.0,16.0,2011-2012
+Chicago Bulls,50.0,16.0,2011-2012
+League Average,,,2011-2012
+Team,,,2012-2013
+Oklahoma City Thunder,60.0,22.0,2012-2013
+Miami Heat,66.0,16.0,2012-2013
+Los Angeles Clippers,56.0,26.0,2012-2013
+San Antonio Spurs,58.0,24.0,2012-2013
+Denver Nuggets,57.0,25.0,2012-2013
+New York Knicks,54.0,28.0,2012-2013
+Memphis Grizzlies,56.0,26.0,2012-2013
+Indiana Pacers,49.0,32.0,2012-2013
+Houston Rockets,45.0,37.0,2012-2013
+Brooklyn Nets,49.0,33.0,2012-2013
+Los Angeles Lakers,45.0,37.0,2012-2013
+Golden State Warriors,47.0,35.0,2012-2013
+Atlanta Hawks,44.0,38.0,2012-2013
+Chicago Bulls,45.0,37.0,2012-2013
+Utah Jazz,43.0,39.0,2012-2013
+Boston Celtics,41.0,40.0,2012-2013
+Dallas Mavericks,41.0,41.0,2012-2013
+Milwaukee Bucks,38.0,44.0,2012-2013
+Toronto Raptors,34.0,48.0,2012-2013
+Minnesota Timberwolves,31.0,51.0,2012-2013
+Washington Wizards,29.0,53.0,2012-2013
+Portland Trail Blazers,33.0,49.0,2012-2013
+Philadelphia 76ers,34.0,48.0,2012-2013
+Detroit Pistons,29.0,53.0,2012-2013
+New Orleans Hornets,27.0,55.0,2012-2013
+Cleveland Cavaliers,24.0,58.0,2012-2013
+Sacramento Kings,28.0,54.0,2012-2013
+Phoenix Suns,25.0,57.0,2012-2013
+Orlando Magic,20.0,62.0,2012-2013
+Charlotte Bobcats,21.0,61.0,2012-2013
+League Average,,,2012-2013
+Team,,,2013-2014
+San Antonio Spurs,62.0,20.0,2013-2014
+Los Angeles Clippers,57.0,25.0,2013-2014
+Oklahoma City Thunder,59.0,23.0,2013-2014
+Miami Heat,54.0,28.0,2013-2014
+Golden State Warriors,51.0,31.0,2013-2014
+Indiana Pacers,56.0,26.0,2013-2014
+Houston Rockets,54.0,28.0,2013-2014
+Portland Trail Blazers,54.0,28.0,2013-2014
+Toronto Raptors,48.0,34.0,2013-2014
+Phoenix Suns,48.0,34.0,2013-2014
+Minnesota Timberwolves,40.0,42.0,2013-2014
+Dallas Mavericks,49.0,33.0,2013-2014
+Chicago Bulls,48.0,34.0,2013-2014
+Memphis Grizzlies,50.0,32.0,2013-2014
+Washington Wizards,44.0,38.0,2013-2014
+Charlotte Bobcats,43.0,39.0,2013-2014
+Atlanta Hawks,38.0,44.0,2013-2014
+New York Knicks,37.0,45.0,2013-2014
+Brooklyn Nets,44.0,38.0,2013-2014
+Denver Nuggets,36.0,46.0,2013-2014
+New Orleans Pelicans,34.0,48.0,2013-2014
+Sacramento Kings,28.0,54.0,2013-2014
+Cleveland Cavaliers,33.0,49.0,2013-2014
+Detroit Pistons,29.0,53.0,2013-2014
+Boston Celtics,25.0,57.0,2013-2014
+Orlando Magic,23.0,59.0,2013-2014
+Los Angeles Lakers,27.0,55.0,2013-2014
+Utah Jazz,25.0,57.0,2013-2014
+Milwaukee Bucks,15.0,67.0,2013-2014
+Philadelphia 76ers,19.0,63.0,2013-2014
+League Average,,,2013-2014
+Team,,,2014-2015
+Golden State Warriors,67.0,15.0,2014-2015
+Los Angeles Clippers,56.0,26.0,2014-2015
+San Antonio Spurs,55.0,27.0,2014-2015
+Atlanta Hawks,60.0,22.0,2014-2015
+Cleveland Cavaliers,53.0,29.0,2014-2015
+Portland Trail Blazers,51.0,31.0,2014-2015
+Houston Rockets,56.0,26.0,2014-2015
+Memphis Grizzlies,55.0,27.0,2014-2015
+Toronto Raptors,49.0,33.0,2014-2015
+Chicago Bulls,50.0,32.0,2014-2015
+Dallas Mavericks,50.0,32.0,2014-2015
+Oklahoma City Thunder,45.0,37.0,2014-2015
+New Orleans Pelicans,45.0,37.0,2014-2015
+Washington Wizards,46.0,36.0,2014-2015
+Milwaukee Bucks,41.0,41.0,2014-2015
+Indiana Pacers,38.0,44.0,2014-2015
+Utah Jazz,38.0,44.0,2014-2015
+Boston Celtics,40.0,42.0,2014-2015
+Phoenix Suns,39.0,43.0,2014-2015
+Detroit Pistons,32.0,50.0,2014-2015
+Miami Heat,37.0,45.0,2014-2015
+Brooklyn Nets,38.0,44.0,2014-2015
+Charlotte Hornets,33.0,49.0,2014-2015
+Denver Nuggets,30.0,52.0,2014-2015
+Sacramento Kings,29.0,53.0,2014-2015
+Orlando Magic,25.0,57.0,2014-2015
+Los Angeles Lakers,21.0,61.0,2014-2015
+Minnesota Timberwolves,16.0,66.0,2014-2015
+Philadelphia 76ers,18.0,64.0,2014-2015
+New York Knicks,17.0,65.0,2014-2015
+League Average,,,2014-2015
+Team,,,2015-2016
+San Antonio Spurs,67.0,15.0,2015-2016
+Golden State Warriors,73.0,9.0,2015-2016
+Oklahoma City Thunder,55.0,27.0,2015-2016
+Cleveland Cavaliers,57.0,25.0,2015-2016
+Toronto Raptors,56.0,26.0,2015-2016
+Los Angeles Clippers,53.0,29.0,2015-2016
+Atlanta Hawks,48.0,34.0,2015-2016
+Boston Celtics,48.0,34.0,2015-2016
+Charlotte Hornets,48.0,34.0,2015-2016
+Utah Jazz,40.0,42.0,2015-2016
+Miami Heat,48.0,34.0,2015-2016
+Indiana Pacers,45.0,37.0,2015-2016
+Portland Trail Blazers,44.0,38.0,2015-2016
+Detroit Pistons,44.0,38.0,2015-2016
+Houston Rockets,41.0,41.0,2015-2016
+Dallas Mavericks,42.0,40.0,2015-2016
+Washington Wizards,41.0,41.0,2015-2016
+Chicago Bulls,42.0,40.0,2015-2016
+Orlando Magic,35.0,47.0,2015-2016
+Sacramento Kings,33.0,49.0,2015-2016
+Memphis Grizzlies,42.0,40.0,2015-2016
+New York Knicks,32.0,50.0,2015-2016
+Denver Nuggets,33.0,49.0,2015-2016
+Minnesota Timberwolves,29.0,53.0,2015-2016
+New Orleans Pelicans,30.0,52.0,2015-2016
+Milwaukee Bucks,33.0,49.0,2015-2016
+Phoenix Suns,23.0,59.0,2015-2016
+Brooklyn Nets,21.0,61.0,2015-2016
+Los Angeles Lakers,17.0,65.0,2015-2016
+Philadelphia 76ers,10.0,72.0,2015-2016
+League Average,,,2015-2016
+Team,,,2016-2017
+Golden State Warriors,67.0,15.0,2016-2017
+San Antonio Spurs,61.0,21.0,2016-2017
+Houston Rockets,55.0,27.0,2016-2017
+Toronto Raptors,51.0,31.0,2016-2017
+Los Angeles Clippers,51.0,31.0,2016-2017
+Utah Jazz,51.0,31.0,2016-2017
+Cleveland Cavaliers,51.0,31.0,2016-2017
+Boston Celtics,53.0,29.0,2016-2017
+Washington Wizards,49.0,33.0,2016-2017
+Miami Heat,41.0,41.0,2016-2017
+Oklahoma City Thunder,47.0,35.0,2016-2017
+Memphis Grizzlies,43.0,39.0,2016-2017
+Denver Nuggets,40.0,42.0,2016-2017
+Chicago Bulls,41.0,41.0,2016-2017
+Charlotte Hornets,36.0,46.0,2016-2017
+Indiana Pacers,42.0,40.0,2016-2017
+Milwaukee Bucks,42.0,40.0,2016-2017
+Portland Trail Blazers,41.0,41.0,2016-2017
+Atlanta Hawks,43.0,39.0,2016-2017
+Detroit Pistons,37.0,45.0,2016-2017
+Minnesota Timberwolves,31.0,51.0,2016-2017
+New Orleans Pelicans,34.0,48.0,2016-2017
+Dallas Mavericks,33.0,49.0,2016-2017
+New York Knicks,31.0,51.0,2016-2017
+Sacramento Kings,32.0,50.0,2016-2017
+Phoenix Suns,24.0,58.0,2016-2017
+Philadelphia 76ers,28.0,54.0,2016-2017
+Brooklyn Nets,20.0,62.0,2016-2017
+Orlando Magic,29.0,53.0,2016-2017
+Los Angeles Lakers,26.0,56.0,2016-2017
+League Average,,,2016-2017
+Team,,,2017-2018
+Houston Rockets,65.0,17.0,2017-2018
+Toronto Raptors,59.0,23.0,2017-2018
+Golden State Warriors,58.0,24.0,2017-2018
+Utah Jazz,48.0,34.0,2017-2018
+Philadelphia 76ers,52.0,30.0,2017-2018
+Boston Celtics,55.0,27.0,2017-2018
+Oklahoma City Thunder,48.0,34.0,2017-2018
+San Antonio Spurs,47.0,35.0,2017-2018
+Portland Trail Blazers,49.0,33.0,2017-2018
+Minnesota Timberwolves,47.0,35.0,2017-2018
+Denver Nuggets,46.0,36.0,2017-2018
+Indiana Pacers,48.0,34.0,2017-2018
+New Orleans Pelicans,48.0,34.0,2017-2018
+Cleveland Cavaliers,50.0,32.0,2017-2018
+Washington Wizards,43.0,39.0,2017-2018
+Miami Heat,44.0,38.0,2017-2018
+Charlotte Hornets,36.0,46.0,2017-2018
+Los Angeles Clippers,42.0,40.0,2017-2018
+Detroit Pistons,39.0,43.0,2017-2018
+Milwaukee Bucks,44.0,38.0,2017-2018
+Los Angeles Lakers,35.0,47.0,2017-2018
+Dallas Mavericks,24.0,58.0,2017-2018
+New York Knicks,29.0,53.0,2017-2018
+Brooklyn Nets,28.0,54.0,2017-2018
+Orlando Magic,25.0,57.0,2017-2018
+Atlanta Hawks,24.0,58.0,2017-2018
+Memphis Grizzlies,22.0,60.0,2017-2018
+Chicago Bulls,27.0,55.0,2017-2018
+Sacramento Kings,27.0,55.0,2017-2018
+Phoenix Suns,21.0,61.0,2017-2018
+League Average,,,2017-2018
+Team,,,2018-2019
+Milwaukee Bucks,60.0,22.0,2018-2019
+Golden State Warriors,57.0,25.0,2018-2019
+Toronto Raptors,58.0,24.0,2018-2019
+Utah Jazz,50.0,32.0,2018-2019
+Houston Rockets,53.0,29.0,2018-2019
+Boston Celtics,49.0,33.0,2018-2019
+Portland Trail Blazers,53.0,29.0,2018-2019
+Denver Nuggets,54.0,28.0,2018-2019
+Indiana Pacers,48.0,34.0,2018-2019
+Oklahoma City Thunder,49.0,33.0,2018-2019
+Philadelphia 76ers,51.0,31.0,2018-2019
+San Antonio Spurs,48.0,34.0,2018-2019
+Los Angeles Clippers,48.0,34.0,2018-2019
+Orlando Magic,42.0,40.0,2018-2019
+Brooklyn Nets,42.0,40.0,2018-2019
+Detroit Pistons,41.0,41.0,2018-2019
+Miami Heat,39.0,43.0,2018-2019
+Sacramento Kings,39.0,43.0,2018-2019
+Charlotte Hornets,39.0,43.0,2018-2019
+New Orleans Pelicans,33.0,49.0,2018-2019
+Dallas Mavericks,33.0,49.0,2018-2019
+Minnesota Timberwolves,36.0,46.0,2018-2019
+Los Angeles Lakers,37.0,45.0,2018-2019
+Memphis Grizzlies,33.0,49.0,2018-2019
+Washington Wizards,32.0,50.0,2018-2019
+Atlanta Hawks,29.0,53.0,2018-2019
+Chicago Bulls,22.0,60.0,2018-2019
+New York Knicks,17.0,65.0,2018-2019
+Phoenix Suns,19.0,63.0,2018-2019
+Cleveland Cavaliers,19.0,63.0,2018-2019
+League Average,,,2018-2019
+Team,,,2019-2020
+Milwaukee Bucks,56.0,17.0,2019-2020
+Boston Celtics,48.0,24.0,2019-2020
+Los Angeles Clippers,49.0,23.0,2019-2020
+Toronto Raptors,53.0,19.0,2019-2020
+Los Angeles Lakers,52.0,19.0,2019-2020
+Dallas Mavericks,43.0,32.0,2019-2020
+Miami Heat,44.0,29.0,2019-2020
+Houston Rockets,44.0,28.0,2019-2020
+Utah Jazz,44.0,28.0,2019-2020
+Philadelphia 76ers,43.0,30.0,2019-2020
+Denver Nuggets,46.0,27.0,2019-2020
+Indiana Pacers,45.0,28.0,2019-2020
+Oklahoma City Thunder,44.0,28.0,2019-2020
+Phoenix Suns,34.0,39.0,2019-2020
+Brooklyn Nets,35.0,37.0,2019-2020
+Orlando Magic,33.0,40.0,2019-2020
+San Antonio Spurs,32.0,39.0,2019-2020
+Memphis Grizzlies,34.0,39.0,2019-2020
+Portland Trail Blazers,35.0,39.0,2019-2020
+New Orleans Pelicans,30.0,42.0,2019-2020
+Sacramento Kings,31.0,41.0,2019-2020
+Chicago Bulls,22.0,43.0,2019-2020
+Detroit Pistons,20.0,46.0,2019-2020
+Minnesota Timberwolves,19.0,45.0,2019-2020
+Washington Wizards,25.0,47.0,2019-2020
+New York Knicks,21.0,45.0,2019-2020
+Charlotte Hornets,23.0,42.0,2019-2020
+Atlanta Hawks,20.0,47.0,2019-2020
+Cleveland Cavaliers,19.0,46.0,2019-2020
+Golden State Warriors,15.0,50.0,2019-2020
+League Average,,,2019-2020
+Team,,,2020-2021
+Utah Jazz,52.0,20.0,2020-2021
+Los Angeles Clippers,47.0,25.0,2020-2021
+Phoenix Suns,51.0,21.0,2020-2021
+Milwaukee Bucks,46.0,26.0,2020-2021
+Philadelphia 76ers,49.0,23.0,2020-2021
+Denver Nuggets,47.0,25.0,2020-2021
+Brooklyn Nets,48.0,24.0,2020-2021
+Los Angeles Lakers,42.0,30.0,2020-2021
+Dallas Mavericks,42.0,30.0,2020-2021
+New York Knicks,41.0,31.0,2020-2021
+Atlanta Hawks,41.0,31.0,2020-2021
+Portland Trail Blazers,42.0,30.0,2020-2021
+Boston Celtics,36.0,36.0,2020-2021
+Golden State Warriors,39.0,33.0,2020-2021
+Memphis Grizzlies,38.0,34.0,2020-2021
+Miami Heat,40.0,32.0,2020-2021
+Indiana Pacers,34.0,38.0,2020-2021
+New Orleans Pelicans,31.0,41.0,2020-2021
+Toronto Raptors,27.0,45.0,2020-2021
+Chicago Bulls,31.0,41.0,2020-2021
+San Antonio Spurs,33.0,39.0,2020-2021
+Washington Wizards,34.0,38.0,2020-2021
+Charlotte Hornets,33.0,39.0,2020-2021
+Sacramento Kings,31.0,41.0,2020-2021
+Detroit Pistons,20.0,52.0,2020-2021
+Minnesota Timberwolves,23.0,49.0,2020-2021
+Houston Rockets,17.0,55.0,2020-2021
+Cleveland Cavaliers,22.0,50.0,2020-2021
+Orlando Magic,21.0,51.0,2020-2021
+Oklahoma City Thunder,22.0,50.0,2020-2021
+League Average,,,2020-2021
+Team,,,2021-2022
+Boston Celtics,51.0,31.0,2021-2022
+Phoenix Suns,64.0,18.0,2021-2022
+Utah Jazz,49.0,33.0,2021-2022
+Memphis Grizzlies,56.0,26.0,2021-2022
+Golden State Warriors,53.0,29.0,2021-2022
+Miami Heat,53.0,29.0,2021-2022
+Dallas Mavericks,52.0,30.0,2021-2022
+Milwaukee Bucks,51.0,31.0,2021-2022
+Philadelphia 76ers,51.0,31.0,2021-2022
+Minnesota Timberwolves,46.0,36.0,2021-2022
+Denver Nuggets,48.0,34.0,2021-2022
+Toronto Raptors,48.0,34.0,2021-2022
+Cleveland Cavaliers,44.0,38.0,2021-2022
+Atlanta Hawks,43.0,39.0,2021-2022
+Brooklyn Nets,44.0,38.0,2021-2022
+Charlotte Hornets,43.0,39.0,2021-2022
+San Antonio Spurs,34.0,48.0,2021-2022
+Los Angeles Clippers,42.0,40.0,2021-2022
+New York Knicks,37.0,45.0,2021-2022
+Chicago Bulls,46.0,36.0,2021-2022
+New Orleans Pelicans,36.0,46.0,2021-2022
+Los Angeles Lakers,33.0,49.0,2021-2022
+Washington Wizards,35.0,47.0,2021-2022
+Indiana Pacers,25.0,57.0,2021-2022
+Sacramento Kings,30.0,52.0,2021-2022
+Detroit Pistons,23.0,59.0,2021-2022
+Orlando Magic,22.0,60.0,2021-2022
+Oklahoma City Thunder,24.0,58.0,2021-2022
+Houston Rockets,20.0,62.0,2021-2022
+Portland Trail Blazers,27.0,55.0,2021-2022
+League Average,,,2021-2022
+Team,,,2022-2023
+Boston Celtics,57.0,25.0,2022-2023
+Cleveland Cavaliers,51.0,31.0,2022-2023
+Philadelphia 76ers,54.0,28.0,2022-2023
+Memphis Grizzlies,51.0,31.0,2022-2023
+Milwaukee Bucks,58.0,24.0,2022-2023
+Denver Nuggets,53.0,29.0,2022-2023
+New York Knicks,47.0,35.0,2022-2023
+Sacramento Kings,48.0,34.0,2022-2023
+Phoenix Suns,45.0,37.0,2022-2023
+New Orleans Pelicans,42.0,40.0,2022-2023
+Golden State Warriors,44.0,38.0,2022-2023
+Toronto Raptors,41.0,41.0,2022-2023
+Chicago Bulls,40.0,42.0,2022-2023
+Oklahoma City Thunder,40.0,42.0,2022-2023
+Brooklyn Nets,45.0,37.0,2022-2023
+Los Angeles Lakers,43.0,39.0,2022-2023
+Los Angeles Clippers,44.0,38.0,2022-2023
+Atlanta Hawks,41.0,41.0,2022-2023
+Dallas Mavericks,38.0,44.0,2022-2023
+Minnesota Timberwolves,42.0,40.0,2022-2023
+Miami Heat,44.0,38.0,2022-2023
+Utah Jazz,37.0,45.0,2022-2023
+Washington Wizards,35.0,47.0,2022-2023
+Orlando Magic,34.0,48.0,2022-2023
+Indiana Pacers,35.0,47.0,2022-2023
+Portland Trail Blazers,33.0,49.0,2022-2023
+Charlotte Hornets,27.0,55.0,2022-2023
+Houston Rockets,22.0,60.0,2022-2023
+Detroit Pistons,17.0,65.0,2022-2023
+San Antonio Spurs,22.0,60.0,2022-2023
+League Average,,,2022-2023
+Team,,,2023-2024
+Boston Celtics,64.0,18.0,2023-2024
+Oklahoma City Thunder,57.0,25.0,2023-2024
+Minnesota Timberwolves,56.0,26.0,2023-2024
+Denver Nuggets,57.0,25.0,2023-2024
+New York Knicks,50.0,32.0,2023-2024
+New Orleans Pelicans,49.0,33.0,2023-2024
+Los Angeles Clippers,51.0,31.0,2023-2024
+Philadelphia 76ers,47.0,35.0,2023-2024
+Phoenix Suns,49.0,33.0,2023-2024
+Indiana Pacers,47.0,35.0,2023-2024
+Golden State Warriors,46.0,36.0,2023-2024
+Milwaukee Bucks,49.0,33.0,2023-2024
+Cleveland Cavaliers,48.0,34.0,2023-2024
+Dallas Mavericks,50.0,32.0,2023-2024
+Orlando Magic,47.0,35.0,2023-2024
+Miami Heat,46.0,36.0,2023-2024
+Sacramento Kings,46.0,36.0,2023-2024
+Houston Rockets,41.0,41.0,2023-2024
+Los Angeles Lakers,47.0,35.0,2023-2024
+Chicago Bulls,39.0,43.0,2023-2024
+Atlanta Hawks,36.0,46.0,2023-2024
+Brooklyn Nets,32.0,50.0,2023-2024
+Utah Jazz,31.0,51.0,2023-2024
+San Antonio Spurs,22.0,60.0,2023-2024
+Toronto Raptors,25.0,57.0,2023-2024
+Memphis Grizzlies,27.0,55.0,2023-2024
+Detroit Pistons,14.0,68.0,2023-2024
+Washington Wizards,15.0,67.0,2023-2024
+Portland Trail Blazers,21.0,61.0,2023-2024
+Charlotte Hornets,21.0,61.0,2023-2024
+League Average,,,2023-2024
+Team,,,2024-2025
+Oklahoma City Thunder,68.0,14.0,2024-2025
+Boston Celtics,61.0,21.0,2024-2025
+Cleveland Cavaliers,64.0,18.0,2024-2025
+Minnesota Timberwolves,49.0,33.0,2024-2025
+Los Angeles Clippers,50.0,32.0,2024-2025
+Memphis Grizzlies,48.0,34.0,2024-2025
+Houston Rockets,52.0,30.0,2024-2025
+New York Knicks,51.0,31.0,2024-2025
+Denver Nuggets,50.0,32.0,2024-2025
+Golden State Warriors,48.0,34.0,2024-2025
+Milwaukee Bucks,48.0,34.0,2024-2025
+Indiana Pacers,50.0,32.0,2024-2025
+Detroit Pistons,44.0,38.0,2024-2025
+Los Angeles Lakers,50.0,32.0,2024-2025
+Miami Heat,37.0,45.0,2024-2025
+Sacramento Kings,40.0,42.0,2024-2025
+Orlando Magic,41.0,41.0,2024-2025
+Atlanta Hawks,40.0,42.0,2024-2025
+Dallas Mavericks,39.0,43.0,2024-2025
+Chicago Bulls,39.0,43.0,2024-2025
+San Antonio Spurs,34.0,48.0,2024-2025
+Portland Trail Blazers,36.0,46.0,2024-2025
+Phoenix Suns,36.0,46.0,2024-2025
+Toronto Raptors,30.0,52.0,2024-2025
+Philadelphia 76ers,24.0,58.0,2024-2025
+Brooklyn Nets,26.0,56.0,2024-2025
+Utah Jazz,17.0,65.0,2024-2025
+Charlotte Hornets,19.0,63.0,2024-2025
+New Orleans Pelicans,21.0,61.0,2024-2025
+Washington Wizards,18.0,64.0,2024-2025
+League Average,,,2024-2025
