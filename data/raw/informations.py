@@ -1,10 +1,10 @@
 '''
 Datas that we have so far:
-- Team stats information year 2000-2025
-- Team Salary Data year 2000-2021
+- Each NBA team stats information year 2000-2025
+- Each NBA team Salary Data year 2000-2025
+- Each NBA team Revenue year 2000-2025
 
-Source: Wikipedia
-
+Notes:
 A Superteam in the National Basketball Association (NBA) is an 
 arbitrary term to describe a team that uses player acquisitions 
 (via trades or free agency) in a short period of time to create a 
