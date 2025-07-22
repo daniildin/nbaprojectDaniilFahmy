@@ -1,0 +1,747 @@
+Unnamed: 0,team,seasonStartYear,payroll,inflationAdjPayroll,team_standardized
+0,Portland,2000,87395140.0,150209627.0,Portland Trail Blazers
+1,New York,2000,74007738.0,127200145.0,New York Knicks
+2,Miami,2000,73472329.0,126279916.0,Miami Heat
+3,Brooklyn,2000,68977578.0,118554603.0,Brooklyn Nets
+4,Washington,2000,59085969.0,101553484.0,Washington Wizards
+5,LA Lakers,2000,58968213.0,101351093.0,Los Angeles Lakers
+6,Milwaukee,2000,57819318.0,99376441.0,Milwaukee Bucks
+7,San Antonio,2000,57215938.0,98339386.0,San Antonio Spurs
+8,Indiana,2000,55086140.0,94678814.0,Indiana Pacers
+9,Phoenix,2000,53906347.0,92651057.0,Phoenix Suns
+10,Utah,2000,53893860.0,92629595.0,Utah Jazz
+11,Dallas,2000,52274842.0,89846921.0,Dallas Mavericks
+12,Denver,2000,52189220.0,89699760.0,Denver Nuggets
+13,Oklahoma City,2000,51538658.0,88581612.0,Oklahoma City Thunder
+14,Boston,2000,51478707.0,88478570.0,Boston Celtics
+15,Philadelphia,2000,51085458.0,87802677.0,Philadelphia 76ers
+16,Cleveland,2000,49780549.0,85559875.0,Cleveland Cavaliers
+17,Houston,2000,49283309.0,84705250.0,Houston Rockets
+18,Memphis,2000,48899840.0,84046166.0,Memphis Grizzlies
+19,Minnesota,2000,47488500.0,81620437.0,Minnesota Timberwolves
+20,Charlotte,2000,46441558.0,79821014.0,Charlotte Hornets
+21,Sacramento,2000,46266289.0,79519774.0,Sacramento Kings
+22,Golden State,2000,42363018.0,72811059.0,Golden State Warriors
+23,Detroit,2000,40475338.0,69566624.0,Detroit Pistons
+24,Atlanta,2000,39297129.0,67541590.0,Atlanta Hawks
+25,Toronto,2000,38313749.0,65851414.0,Toronto Raptors
+26,Orlando,2000,37459860.0,64383801.0,Orlando Magic
+27,Chicago,2000,29691907.0,51032701.0,Chicago Bulls
+28,LA Clippers,2000,29606189.0,50885371.0,Los Angeles Clippers
+0,New York,2001,85993039.0,143149897.0,New York Knicks
+1,Portland,2001,84292850.0,140319647.0,Portland Trail Blazers
+2,Brooklyn,2001,75193712.0,125172596.0,Brooklyn Nets
+3,Philadelphia,2001,58073366.0,96672896.0,Philadelphia 76ers
+4,Dallas,2001,57960080.0,96484312.0,Dallas Mavericks
+5,Phoenix,2001,56596369.0,94214187.0,Phoenix Suns
+6,Milwaukee,2001,56224266.0,93594760.0,Milwaukee Bucks
+7,Minnesota,2001,55093782.0,91712876.0,Minnesota Timberwolves
+8,Sacramento,2001,54921012.0,91425274.0,Sacramento Kings
+9,Washington,2001,54776087.0,91184019.0,Washington Wizards
+10,Denver,2001,54460475.0,90658629.0,Denver Nuggets
+11,LA Lakers,2001,54262017.0,90328263.0,Los Angeles Lakers
+12,Indiana,2001,53398621.0,88890997.0,Indiana Pacers
+13,Miami,2001,53351186.0,88812030.0,Miami Heat
+14,Toronto,2001,52657161.0,87656710.0,Toronto Raptors
+15,Utah,2001,52642362.0,87632078.0,Utah Jazz
+16,Atlanta,2001,51525207.0,85772381.0,Atlanta Hawks
+17,Memphis,2001,50920631.0,84765963.0,Memphis Grizzlies
+18,Charlotte,2001,49999445.0,83232496.0,Charlotte Hornets
+19,Houston,2001,49168169.0,81848694.0,Houston Rockets
+20,Golden State,2001,47681152.0,79373305.0,Golden State Warriors
+21,Boston,2001,47515677.0,79097845.0,Boston Celtics
+22,Orlando,2001,45984001.0,76548112.0,Orlando Magic
+23,San Antonio,2001,45844814.0,76316410.0,San Antonio Spurs
+24,Cleveland,2001,45649974.0,75992069.0,Cleveland Cavaliers
+25,Oklahoma City,2001,45556733.0,75836850.0,Oklahoma City Thunder
+26,Chicago,2001,42592857.0,70902978.0,Chicago Bulls
+27,Detroit,2001,42417677.0,70611365.0,Detroit Pistons
+28,LA Clippers,2001,33849932.0,56348909.0,Los Angeles Clippers
+0,Portland,2002,105595657.0,173925253.0,Portland Trail Blazers
+1,New York,2002,93452379.0,153924217.0,New York Knicks
+2,Dallas,2002,72940316.0,120139056.0,Dallas Mavericks
+3,Sacramento,2002,70416596.0,115982270.0,Sacramento Kings
+4,Philadelphia,2002,64822487.0,106768285.0,Philadelphia 76ers
+5,LA Lakers,2002,63151182.0,104015499.0,Los Angeles Lakers
+6,Memphis,2002,61009172.0,100487421.0,Memphis Grizzlies
+7,Brooklyn,2002,60412919.0,99505342.0,Brooklyn Nets
+8,Minnesota,2002,59518801.0,98032650.0,Minnesota Timberwolves
+9,Milwaukee,2002,57995152.0,95523069.0,Milwaukee Bucks
+10,Miami,2002,57378326.0,94507103.0,Miami Heat
+11,Atlanta,2002,55711549.0,91761773.0,Atlanta Hawks
+12,Toronto,2002,55408207.0,91262143.0,Toronto Raptors
+13,Phoenix,2002,55225080.0,90960518.0,Phoenix Suns
+14,Indiana,2002,53472323.0,88073576.0,Indiana Pacers
+15,San Antonio,2002,53182559.0,87596308.0,San Antonio Spurs
+16,Oklahoma City,2002,53167479.0,87571471.0,Oklahoma City Thunder
+17,Boston,2002,52548195.0,86551455.0,Boston Celtics
+18,Utah,2002,50934629.0,83893772.0,Utah Jazz
+19,Orlando,2002,50435346.0,83071410.0,Orlando Magic
+20,Houston,2002,50181239.0,82652870.0,Houston Rockets
+21,Cleveland,2002,49610448.0,81712729.0,Cleveland Cavaliers
+22,Denver,2002,49109209.0,80887143.0,Denver Nuggets
+23,Detroit,2002,47777888.0,78694343.0,Detroit Pistons
+24,Golden State,2002,47737715.0,78628174.0,Golden State Warriors
+25,Washington,2002,46691190.0,76904456.0,Washington Wizards
+26,Chicago,2002,44531095.0,73346593.0,Chicago Bulls
+27,New Orleans,2002,44458882.0,73227652.0,New Orleans Pelicans
+28,LA Clippers,2002,42955777.0,70751903.0,Los Angeles Clippers
+0,New York,2003,89444820.0,144275901.0,New York Knicks
+1,Portland,2003,82956768.0,133810569.0,Portland Trail Blazers
+2,Dallas,2003,79536723.0,128293984.0,Dallas Mavericks
+3,Minnesota,2003,71272042.0,114962924.0,Minnesota Timberwolves
+4,Sacramento,2003,68372826.0,110286439.0,Sacramento Kings
+5,Phoenix,2003,66931770.0,107961996.0,Phoenix Suns
+6,Atlanta,2003,64497340.0,104035221.0,Atlanta Hawks
+7,LA Lakers,2003,64123085.0,103431541.0,Los Angeles Lakers
+8,Brooklyn,2003,63697123.0,102744457.0,Brooklyn Nets
+9,Toronto,2003,63033243.0,101673609.0,Toronto Raptors
+10,Philadelphia,2003,60411079.0,97444017.0,Philadelphia 76ers
+11,Boston,2003,60185915.0,97080824.0,Boston Celtics
+12,Indiana,2003,58156236.0,93806919.0,Indiana Pacers
+13,Memphis,2003,57378323.0,92552133.0,Memphis Grizzlies
+14,Chicago,2003,55489797.0,89505911.0,Chicago Bulls
+15,Houston,2003,55401430.0,89363372.0,Houston Rockets
+16,Detroit,2003,53442834.0,86204128.0,Detroit Pistons
+17,Golden State,2003,53376708.0,86097462.0,Golden State Warriors
+18,Milwaukee,2003,53229826.0,85860542.0,Milwaukee Bucks
+19,Oklahoma City,2003,52347476.0,84437299.0,Oklahoma City Thunder
+20,Orlando,2003,50588419.0,81599909.0,Orlando Magic
+21,New Orleans,2003,49800204.0,80328508.0,New Orleans Pelicans
+22,Miami,2003,47349374.0,76375279.0,Miami Heat
+23,San Antonio,2003,46464064.0,74947262.0,San Antonio Spurs
+24,Cleveland,2003,46186472.0,74499502.0,Cleveland Cavaliers
+25,Washington,2003,45682902.0,73687234.0,Washington Wizards
+26,Denver,2003,39398646.0,63550630.0,Denver Nuggets
+27,LA Clippers,2003,39114363.0,63092076.0,Los Angeles Clippers
+28,Utah,2003,34747674.0,56048537.0,Utah Jazz
+0,New York,2004,102567539.0,160210270.0,New York Knicks
+1,Dallas,2004,91908443.0,143560784.0,Dallas Mavericks
+2,Portland,2004,83671309.0,130694399.0,Portland Trail Blazers
+3,Philadelphia,2004,71951878.0,112388675.0,Philadelphia 76ers
+4,Minnesota,2004,70123411.0,109532614.0,Minnesota Timberwolves
+5,Memphis,2004,67010830.0,104670765.0,Memphis Grizzlies
+6,Orlando,2004,66445249.0,103787330.0,Orlando Magic
+7,Indiana,2004,66064780.0,103193038.0,Indiana Pacers
+8,LA Lakers,2004,65059098.0,101622167.0,Los Angeles Lakers
+9,Boston,2004,64577356.0,100869682.0,Boston Celtics
+10,Sacramento,2004,61807688.0,96543472.0,Sacramento Kings
+11,Toronto,2004,61703775.0,96381158.0,Toronto Raptors
+12,Houston,2004,60284303.0,94163947.0,Houston Rockets
+13,Miami,2004,59523529.0,92975618.0,Miami Heat
+14,Milwaukee,2004,57448246.0,89734030.0,Milwaukee Bucks
+15,Chicago,2004,57276129.0,89465182.0,Chicago Bulls
+16,New Orleans,2004,56572882.0,88366715.0,New Orleans Pelicans
+17,Brooklyn,2004,54983980.0,85884853.0,Brooklyn Nets
+18,Golden State,2004,54943723.0,85821972.0,Golden State Warriors
+19,Detroit,2004,54762481.0,85538871.0,Detroit Pistons
+20,Oklahoma City,2004,53821301.0,84068752.0,Oklahoma City Thunder
+21,Washington,2004,49797050.0,77782880.0,Washington Wizards
+22,Cleveland,2004,49175274.0,76811666.0,Cleveland Cavaliers
+23,San Antonio,2004,47504123.0,74201333.0,San Antonio Spurs
+24,Denver,2004,46101759.0,72010845.0,Denver Nuggets
+25,LA Clippers,2004,45483265.0,71044757.0,Los Angeles Clippers
+26,Phoenix,2004,44598682.0,69663040.0,Phoenix Suns
+27,Utah,2004,43515760.0,67971518.0,Utah Jazz
+28,Atlanta,2004,41059616.0,64135028.0,Atlanta Hawks
+29,Charlotte,2004,23922578.0,37367008.0,Charlotte Hornets
+0,New York,2005,126631098.0,192916121.0,New York Knicks
+1,Dallas,2005,98454832.0,149990990.0,Dallas Mavericks
+2,Philadelphia,2005,84807300.0,129199660.0,Philadelphia 76ers
+3,Indiana,2005,78791779.0,120035315.0,Indiana Pacers
+4,Orlando,2005,75784782.0,115454308.0,Orlando Magic
+5,LA Lakers,2005,72917945.0,111086824.0,Los Angeles Lakers
+6,Houston,2005,69257404.0,105510172.0,Houston Rockets
+7,Memphis,2005,67525538.0,102871764.0,Memphis Grizzlies
+8,Brooklyn,2005,66449350.0,101232245.0,Brooklyn Nets
+9,San Antonio,2005,63570274.0,96846117.0,San Antonio Spurs
+10,Milwaukee,2005,63022514.0,96011630.0,Milwaukee Bucks
+11,Sacramento,2005,62811975.0,95690888.0,Sacramento Kings
+12,Toronto,2005,62411884.0,95081368.0,Toronto Raptors
+13,Minnesota,2005,61830186.0,94195177.0,Minnesota Timberwolves
+14,Miami,2005,60732452.0,92522835.0,Miami Heat
+15,Portland,2005,60017964.0,91434350.0,Portland Trail Blazers
+16,Detroit,2005,59619275.0,90826969.0,Detroit Pistons
+17,Utah,2005,57372902.0,87404731.0,Utah Jazz
+18,Chicago,2005,57166530.0,87090333.0,Chicago Bulls
+19,Golden State,2005,57114566.0,87011173.0,Golden State Warriors
+20,Boston,2005,56907300.0,86695411.0,Boston Celtics
+21,Denver,2005,56492172.0,86062985.0,Denver Nuggets
+22,Washington,2005,54555947.0,83113242.0,Washington Wizards
+23,Phoenix,2005,53626924.0,81697921.0,Phoenix Suns
+24,LA Clippers,2005,51358645.0,78242312.0,Los Angeles Clippers
+25,Cleveland,2005,51303962.0,78159006.0,Cleveland Cavaliers
+26,Oklahoma City,2005,49253379.0,75035044.0,Oklahoma City Thunder
+27,Atlanta,2005,42944553.0,65423864.0,Atlanta Hawks
+28,New Orleans,2005,41277617.0,62884371.0,New Orleans Pelicans
+29,Charlotte,2005,33458932.0,50972998.0,Charlotte Hornets
+0,New York,2006,117350866.0,171376790.0,New York Knicks
+1,Dallas,2006,88531846.0,129290082.0,Dallas Mavericks
+2,LA Lakers,2006,77099949.0,112595178.0,Los Angeles Lakers
+3,Portland,2006,75026386.0,109566990.0,Portland Trail Blazers
+4,Philadelphia,2006,69140163.0,100970867.0,Philadelphia 76ers
+5,Minnesota,2006,66820673.0,97583533.0,Minnesota Timberwolves
+6,Phoenix,2006,65841120.0,96153014.0,Phoenix Suns
+7,San Antonio,2006,65654320.0,95880216.0,San Antonio Spurs
+8,Denver,2006,65517776.0,95680807.0,Denver Nuggets
+9,Golden State,2006,65012368.0,94942718.0,Golden State Warriors
+10,Brooklyn,2006,64486110.0,94174184.0,Brooklyn Nets
+11,Miami,2006,64416312.0,94072248.0,Miami Heat
+12,Sacramento,2006,64296611.0,93897442.0,Sacramento Kings
+13,Houston,2006,63837566.0,93227062.0,Houston Rockets
+14,Milwaukee,2006,63498518.0,92731925.0,Milwaukee Bucks
+15,Indiana,2006,63118965.0,92177635.0,Indiana Pacers
+16,Cleveland,2006,62992729.0,91993282.0,Cleveland Cavaliers
+17,Boston,2006,62981479.0,91976850.0,Boston Celtics
+18,Washington,2006,62733705.0,91615008.0,Washington Wizards
+19,Utah,2006,62364364.0,91075629.0,Utah Jazz
+20,Memphis,2006,61960489.0,90485819.0,Memphis Grizzlies
+21,Orlando,2006,61447108.0,89736088.0,Orlando Magic
+22,LA Clippers,2006,59181038.0,86426765.0,Los Angeles Clippers
+23,Detroit,2006,59010951.0,86178374.0,Detroit Pistons
+24,Oklahoma City,2006,56986831.0,83222392.0,Oklahoma City Thunder
+25,Chicago,2006,54754904.0,79962932.0,Chicago Bulls
+26,New Orleans,2006,53748991.0,78493916.0,New Orleans Pelicans
+27,Toronto,2006,51015491.0,74501967.0,Toronto Raptors
+28,Atlanta,2006,48581972.0,70948106.0,Atlanta Hawks
+29,Charlotte,2006,41964046.0,61283422.0,Charlotte Hornets
+0,Dallas,2007,101694879.0,144626929.0,Dallas Mavericks
+1,New York,2007,96190114.0,136798241.0,New York Knicks
+2,Denver,2007,82958227.0,117980313.0,Denver Nuggets
+3,Cleveland,2007,82217583.0,116926993.0,Cleveland Cavaliers
+4,Miami,2007,74767603.0,106331889.0,Miami Heat
+5,Boston,2007,74509455.0,105964761.0,Boston Celtics
+6,Philadelphia,2007,74038229.0,105294598.0,Philadelphia 76ers
+7,Portland,2007,73241335.0,104161282.0,Portland Trail Blazers
+8,LA Lakers,2007,72626796.0,103287307.0,Los Angeles Lakers
+9,Phoenix,2007,71323049.0,101433166.0,Phoenix Suns
+10,San Antonio,2007,70048523.0,99620574.0,San Antonio Spurs
+11,Houston,2007,69894114.0,99400981.0,Houston Rockets
+12,Minnesota,2007,69043895.0,98191828.0,Minnesota Timberwolves
+13,Indiana,2007,66260246.0,94233021.0,Indiana Pacers
+14,Toronto,2007,66042375.0,93923170.0,Toronto Raptors
+15,Detroit,2007,65898875.0,93719090.0,Detroit Pistons
+16,Washington,2007,65278996.0,92837520.0,Washington Wizards
+17,Utah,2007,64959089.0,92382560.0,Utah Jazz
+18,LA Clippers,2007,64847945.0,92224494.0,Los Angeles Clippers
+19,Sacramento,2007,63403225.0,90169860.0,Sacramento Kings
+20,Chicago,2007,63084166.0,89716109.0,Chicago Bulls
+21,New Orleans,2007,62609991.0,89041753.0,New Orleans Pelicans
+22,Milwaukee,2007,62571522.0,88987044.0,Milwaukee Bucks
+23,Golden State,2007,62148303.0,88385154.0,Golden State Warriors
+24,Brooklyn,2007,61836211.0,87941308.0,Brooklyn Nets
+25,Oklahoma City,2007,60861388.0,86554951.0,Oklahoma City Thunder
+26,Orlando,2007,58165973.0,82721625.0,Orlando Magic
+27,Atlanta,2007,55501133.0,78931784.0,Atlanta Hawks
+28,Memphis,2007,54118526.0,76965485.0,Memphis Grizzlies
+29,Charlotte,2007,53745468.0,76434937.0,Charlotte Hornets
+0,New York,2008,96643646.0,130871164.0,New York Knicks
+1,Dallas,2008,95045559.0,128707094.0,Dallas Mavericks
+2,Cleveland,2008,91298233.0,123632608.0,Cleveland Cavaliers
+3,Portland,2008,80260059.0,108685129.0,Portland Trail Blazers
+4,Boston,2008,79188973.0,107234707.0,Boston Celtics
+5,LA Lakers,2008,78245793.0,105957488.0,Los Angeles Lakers
+6,Phoenix,2008,76130408.0,103092915.0,Phoenix Suns
+7,Toronto,2008,73446970.0,99459103.0,Toronto Raptors
+8,Houston,2008,73302272.0,99263157.0,Houston Rockets
+9,Detroit,2008,71434174.0,96733451.0,Detroit Pistons
+10,Milwaukee,2008,71360656.0,96633892.0,Milwaukee Bucks
+11,Washington,2008,70743317.0,95797917.0,Washington Wizards
+12,Miami,2008,70297059.0,95193612.0,Miami Heat
+13,Denver,2008,70121003.0,94955202.0,Denver Nuggets
+14,Orlando,2008,69672979.0,94348506.0,Orlando Magic
+15,Indiana,2008,69668818.0,94342872.0,Indiana Pacers
+16,Sacramento,2008,69204512.0,93714124.0,Sacramento Kings
+17,Oklahoma City,2008,68341605.0,92545606.0,Oklahoma City Thunder
+18,Philadelphia,2008,68301007.0,92490635.0,Philadelphia 76ers
+19,Atlanta,2008,68168841.0,92311660.0,Atlanta Hawks
+20,Chicago,2008,68126774.0,92254694.0,Chicago Bulls
+21,San Antonio,2008,68020487.0,92110764.0,San Antonio Spurs
+22,New Orleans,2008,67530808.0,91447655.0,New Orleans Pelicans
+23,Golden State,2008,67416431.0,91292774.0,Golden State Warriors
+24,Minnesota,2008,66445144.0,89977494.0,Minnesota Timberwolves
+25,Utah,2008,65841407.0,89159939.0,Utah Jazz
+26,Charlotte,2008,62866926.0,85132005.0,Charlotte Hornets
+27,LA Clippers,2008,62764206.0,84992906.0,Los Angeles Clippers
+28,Brooklyn,2008,62666523.0,84860629.0,Brooklyn Nets
+29,Memphis,2008,55958148.0,75776400.0,Memphis Grizzlies
+0,LA Lakers,2009,91378064.0,125531770.0,Los Angeles Lakers
+1,Dallas,2009,88916075.0,122149580.0,Dallas Mavericks
+2,New York,2009,85710076.0,117745296.0,New York Knicks
+3,Boston,2009,83552174.0,114780852.0,Boston Celtics
+4,Cleveland,2009,83398534.0,114569789.0,Cleveland Cavaliers
+5,Orlando,2009,82200916.0,112924547.0,Orlando Magic
+6,San Antonio,2009,79338309.0,108992004.0,San Antonio Spurs
+7,Denver,2009,74935538.0,102943641.0,Denver Nuggets
+8,Miami,2009,74208013.0,101944193.0,Miami Heat
+9,Washington,2009,73440274.0,100889502.0,Washington Wizards
+10,Utah,2009,71905244.0,98780738.0,Utah Jazz
+11,New Orleans,2009,70163827.0,96388442.0,New Orleans Pelicans
+12,Chicago,2009,69700359.0,95751745.0,Chicago Bulls
+13,Houston,2009,69095315.0,94920556.0,Houston Rockets
+14,Charlotte,2009,68681758.0,94352431.0,Charlotte Hornets
+15,Toronto,2009,67822433.0,93171922.0,Toronto Raptors
+16,Sacramento,2009,67515718.0,92750564.0,Sacramento Kings
+17,Milwaukee,2009,66775602.0,91733823.0,Milwaukee Bucks
+18,Indiana,2009,66733257.0,91675652.0,Indiana Pacers
+19,Atlanta,2009,65883642.0,90508483.0,Atlanta Hawks
+20,Golden State,2009,65352372.0,89778643.0,Golden State Warriors
+21,Phoenix,2009,65288544.0,89690960.0,Phoenix Suns
+22,Philadelphia,2009,64883448.0,89134455.0,Philadelphia 76ers
+23,Minnesota,2009,62253360.0,85521336.0,Minnesota Timberwolves
+24,LA Clippers,2009,61616409.0,84646315.0,Los Angeles Clippers
+25,Detroit,2009,60185833.0,82681047.0,Detroit Pistons
+26,Brooklyn,2009,59366715.0,81555769.0,Brooklyn Nets
+27,Oklahoma City,2009,58578614.0,80473103.0,Oklahoma City Thunder
+28,Memphis,2009,57287474.0,78699387.0,Memphis Grizzlies
+29,Portland,2009,56946258.0,78230639.0,Portland Trail Blazers
+0,LA Lakers,2010,91428140.0,124291341.0,Los Angeles Lakers
+1,Orlando,2010,90770804.0,123397731.0,Orlando Magic
+2,Dallas,2010,85409890.0,116109872.0,Dallas Mavericks
+3,Boston,2010,82045867.0,111536674.0,Boston Celtics
+4,Utah,2010,75855296.0,103120947.0,Utah Jazz
+5,Portland,2010,74584058.0,101392771.0,Portland Trail Blazers
+6,Houston,2010,72315654.0,98309005.0,Houston Rockets
+7,Atlanta,2010,71469843.0,97159173.0,Atlanta Hawks
+8,Memphis,2010,70241344.0,95489097.0,Memphis Grizzlies
+9,Toronto,2010,69992648.0,95151009.0,Toronto Raptors
+10,San Antonio,2010,69522311.0,94511612.0,San Antonio Spurs
+11,Milwaukee,2010,69076690.0,93905818.0,Milwaukee Bucks
+12,Philadelphia,2010,68915246.0,93686344.0,Philadelphia 76ers
+13,Golden State,2010,68415336.0,93006743.0,Golden State Warriors
+14,New Orleans,2010,68230729.0,92755780.0,New Orleans Pelicans
+15,Denver,2010,68019290.0,92468344.0,Denver Nuggets
+16,New York,2010,67016562.0,91105191.0,New York Knicks
+17,Charlotte,2010,66542696.0,90460995.0,Charlotte Hornets
+18,Miami,2010,66205855.0,90003080.0,Miami Heat
+19,Phoenix,2010,65979054.0,89694755.0,Phoenix Suns
+20,Detroit,2010,65517821.0,89067738.0,Detroit Pistons
+21,Indiana,2010,65088630.0,88484276.0,Indiana Pacers
+22,Brooklyn,2010,58495989.0,79521957.0,Brooklyn Nets
+23,Washington,2010,58324988.0,79289488.0,Washington Wizards
+24,Oklahoma City,2010,55922488.0,76023428.0,Oklahoma City Thunder
+25,Chicago,2010,54538076.0,74141403.0,Chicago Bulls
+26,Cleveland,2010,53990021.0,73396348.0,Cleveland Cavaliers
+27,Minnesota,2010,53461123.0,72677345.0,Minnesota Timberwolves
+28,LA Clippers,2010,53225329.0,72356793.0,Los Angeles Clippers
+29,Sacramento,2010,45268465.0,61539890.0,Sacramento Kings
+0,LA Lakers,2011,88264478.0,115867013.0,Los Angeles Lakers
+1,Orlando,2011,87955505.0,115461413.0,Orlando Magic
+2,Portland,2011,80920717.0,106226673.0,Portland Trail Blazers
+3,Phoenix,2011,80640576.0,105858925.0,Phoenix Suns
+4,Boston,2011,79820530.0,104782428.0,Boston Celtics
+5,Dallas,2011,77180233.0,101316443.0,Dallas Mavericks
+6,New York,2011,77093212.0,101202208.0,New York Knicks
+7,Miami,2011,75469639.0,99070904.0,Miami Heat
+8,San Antonio,2011,73732762.0,96790861.0,San Antonio Spurs
+9,Atlanta,2011,73669912.0,96708356.0,Atlanta Hawks
+10,Detroit,2011,70923605.0,93103208.0,Detroit Pistons
+11,Memphis,2011,70628007.0,92715170.0,Memphis Grizzlies
+12,Chicago,2011,69548447.0,91298005.0,Chicago Bulls
+13,LA Clippers,2011,67333389.0,88390241.0,Los Angeles Clippers
+14,Philadelphia,2011,66672368.0,87522503.0,Philadelphia 76ers
+15,New Orleans,2011,65441008.0,85906062.0,New Orleans Pelicans
+16,Brooklyn,2011,65281235.0,85696324.0,Brooklyn Nets
+17,Cleveland,2011,64875599.0,85163836.0,Cleveland Cavaliers
+18,Golden State,2011,61576901.0,80833554.0,Golden State Warriors
+19,Milwaukee,2011,60192388.0,79016067.0,Milwaukee Bucks
+20,Oklahoma City,2011,59501709.0,78109397.0,Oklahoma City Thunder
+21,Denver,2011,58553173.0,76864228.0,Denver Nuggets
+22,Utah,2011,58178016.0,76371750.0,Utah Jazz
+23,Charlotte,2011,57902024.0,76009450.0,Charlotte Hornets
+24,Houston,2011,57021755.0,74853897.0,Houston Rockets
+25,Minnesota,2011,56844339.0,74620999.0,Minnesota Timberwolves
+26,Washington,2011,55386345.0,72707054.0,Washington Wizards
+27,Toronto,2011,55063049.0,72282656.0,Toronto Raptors
+28,Indiana,2011,51554083.0,67676347.0,Indiana Pacers
+29,Sacramento,2011,48950236.0,64258210.0,Sacramento Kings
+0,LA Lakers,2012,100131988.0,129294344.0,Los Angeles Lakers
+1,Brooklyn,2012,87644649.0,113170204.0,Brooklyn Nets
+2,Miami,2012,80427933.0,103851696.0,Miami Heat
+3,New York,2012,79977119.0,103269586.0,New York Knicks
+4,Boston,2012,75508399.0,97499399.0,Boston Celtics
+5,Chicago,2012,74491280.0,96186057.0,Chicago Bulls
+6,Golden State,2012,70036985.0,90434497.0,Golden State Warriors
+7,San Antonio,2012,69838600.0,90178333.0,San Antonio Spurs
+8,Dallas,2012,69766571.0,90085322.0,Dallas Mavericks
+9,LA Clippers,2012,69152721.0,89292698.0,Los Angeles Clippers
+10,Oklahoma City,2012,68924100.0,88997496.0,Oklahoma City Thunder
+11,Detroit,2012,68807497.0,88846933.0,Detroit Pistons
+12,Atlanta,2012,66710178.0,86138791.0,Atlanta Hawks
+13,Philadelphia,2012,66697839.0,86122858.0,Philadelphia 76ers
+14,Orlando,2012,66557496.0,85941642.0,Orlando Magic
+15,Indiana,2012,66107195.0,85360196.0,Indiana Pacers
+16,Utah,2012,65657569.0,84779621.0,Utah Jazz
+17,Minnesota,2012,64329748.0,83065086.0,Minnesota Timberwolves
+18,New Orleans,2012,64134537.0,82813025.0,New Orleans Pelicans
+19,Toronto,2012,63708138.0,82262440.0,Toronto Raptors
+20,Denver,2012,63444254.0,81921705.0,Denver Nuggets
+21,Memphis,2012,63054115.0,81417939.0,Memphis Grizzlies
+22,Milwaukee,2012,62410041.0,80586287.0,Milwaukee Bucks
+23,Washington,2012,59715539.0,77107038.0,Washington Wizards
+24,Portland,2012,59442596.0,76754605.0,Portland Trail Blazers
+25,Charlotte,2012,58122566.0,75050130.0,Charlotte Hornets
+26,Cleveland,2012,54472190.0,70336619.0,Cleveland Cavaliers
+27,Sacramento,2012,54421935.0,70271732.0,Sacramento Kings
+28,Phoenix,2012,54196264.0,69980337.0,Phoenix Suns
+29,Houston,2012,48048265.0,62041797.0,Houston Rockets
+0,Brooklyn,2013,102589967.0,130184212.0,Brooklyn Nets
+1,New York,2013,89072787.0,113031231.0,New York Knicks
+2,Miami,2013,80841617.0,102586074.0,Miami Heat
+3,LA Lakers,2013,77423614.0,98248706.0,Los Angeles Lakers
+4,Dallas,2013,75012158.0,95188628.0,Dallas Mavericks
+5,Chicago,2013,73336893.0,93062756.0,Chicago Bulls
+6,LA Clippers,2013,73049774.0,92698411.0,Los Angeles Clippers
+7,Golden State,2013,72503122.0,92004723.0,Golden State Warriors
+8,Memphis,2013,71992885.0,91357243.0,Memphis Grizzlies
+9,Oklahoma City,2013,71653401.0,90926444.0,Oklahoma City Thunder
+10,Toronto,2013,71561643.0,90810007.0,Toronto Raptors
+11,Boston,2013,70885503.0,89952004.0,Boston Celtics
+12,Minnesota,2013,68564040.0,87006120.0,Minnesota Timberwolves
+13,New Orleans,2013,67358651.0,85476509.0,New Orleans Pelicans
+14,Indiana,2013,67182414.0,85252870.0,Indiana Pacers
+15,Cleveland,2013,66654061.0,84582401.0,Cleveland Cavaliers
+16,Denver,2013,65782065.0,83475862.0,Denver Nuggets
+17,Washington,2013,64698822.0,82101251.0,Washington Wizards
+18,San Antonio,2013,63115911.0,80092576.0,San Antonio Spurs
+19,Detroit,2013,62387432.0,79168155.0,Detroit Pistons
+20,Portland,2013,61260350.0,77737913.0,Portland Trail Blazers
+21,Charlotte,2013,60395651.0,76640630.0,Charlotte Hornets
+22,Sacramento,2013,59174155.0,75090582.0,Sacramento Kings
+23,Atlanta,2013,58998677.0,74867903.0,Atlanta Hawks
+24,Houston,2013,57823063.0,73376078.0,Houston Rockets
+25,Orlando,2013,56948031.0,72265682.0,Orlando Magic
+26,Utah,2013,56911999.0,72219960.0,Utah Jazz
+27,Phoenix,2013,55569468.0,70516321.0,Phoenix Suns
+28,Milwaukee,2013,54400846.0,69033363.0,Milwaukee Bucks
+29,Philadelphia,2013,51741312.0,65658478.0,Philadelphia 76ers
+0,Brooklyn,2014,87817289.0,109175545.0,Brooklyn Nets
+1,LA Clippers,2014,85259447.0,105995602.0,Los Angeles Clippers
+2,Dallas,2014,84820225.0,105449557.0,Dallas Mavericks
+3,Cleveland,2014,82592827.0,102680427.0,Cleveland Cavaliers
+4,New York,2014,81369219.0,101159224.0,New York Knicks
+5,Toronto,2014,81317963.0,101095502.0,Toronto Raptors
+6,Oklahoma City,2014,80408520.0,99964871.0,Oklahoma City Thunder
+7,New Orleans,2014,80012866.0,99472985.0,New Orleans Pelicans
+8,LA Lakers,2014,77546500.0,96406770.0,Los Angeles Lakers
+9,Houston,2014,76849302.0,95540004.0,Houston Rockets
+10,Miami,2014,75813041.0,94251712.0,Miami Heat
+11,Memphis,2014,75158730.0,93438263.0,Memphis Grizzlies
+12,Indiana,2014,74793526.0,92984242.0,Indiana Pacers
+13,Golden State,2014,73611166.0,91514313.0,Golden State Warriors
+14,Sacramento,2014,73379071.0,91225769.0,Sacramento Kings
+15,Washington,2014,73372974.0,91218191.0,Washington Wizards
+16,San Antonio,2014,70770209.0,87982400.0,San Antonio Spurs
+17,Portland,2014,69936842.0,86946352.0,Portland Trail Blazers
+18,Minnesota,2014,69378954.0,86252775.0,Minnesota Timberwolves
+19,Chicago,2014,67414682.0,83810770.0,Chicago Bulls
+20,Detroit,2014,67410675.0,83805787.0,Detroit Pistons
+21,Charlotte,2014,66792937.0,83037806.0,Charlotte Hornets
+22,Boston,2014,62218516.0,77350827.0,Boston Celtics
+23,Utah,2014,60847538.0,75646410.0,Utah Jazz
+24,Orlando,2014,59629210.0,74131770.0,Orlando Magic
+25,Atlanta,2014,58320278.0,72504493.0,Atlanta Hawks
+26,Phoenix,2014,58018672.0,72129532.0,Phoenix Suns
+27,Denver,2014,56820307.0,70639707.0,Denver Nuggets
+28,Milwaukee,2014,54473275.0,67721849.0,Milwaukee Bucks
+29,Philadelphia,2014,54355571.0,67575510.0,Philadelphia 76ers
+0,Cleveland,2015,108300458.0,134474038.0,Cleveland Cavaliers
+1,LA Clippers,2015,97019321.0,120466523.0,Los Angeles Clippers
+2,Oklahoma City,2015,95708387.0,118838769.0,Oklahoma City Thunder
+3,Golden State,2015,93669566.0,116307216.0,Golden State Warriors
+4,San Antonio,2015,87832839.0,109059892.0,San Antonio Spurs
+5,Houston,2015,87504058.0,108651651.0,Houston Rockets
+6,Chicago,2015,87073838.0,108117461.0,Chicago Bulls
+7,Miami,2015,85764781.0,106492035.0,Miami Heat
+8,Washington,2015,85055155.0,105610907.0,Washington Wizards
+9,New Orleans,2015,83709371.0,103939877.0,New Orleans Pelicans
+10,Memphis,2015,83223881.0,103337057.0,Memphis Grizzlies
+11,Brooklyn,2015,80258302.0,99654772.0,Brooklyn Nets
+12,Detroit,2015,77256014.0,95926904.0,Detroit Pistons
+13,Boston,2015,77141919.0,95785236.0,Boston Celtics
+14,Charlotte,2015,76860006.0,95435193.0,Charlotte Hornets
+15,Dallas,2015,75397067.0,93618697.0,Dallas Mavericks
+16,New York,2015,74237021.0,92178295.0,New York Knicks
+17,Milwaukee,2015,73843541.0,91689719.0,Milwaukee Bucks
+18,LA Lakers,2015,72694352.0,90262802.0,Los Angeles Lakers
+19,Denver,2015,72589023.0,90132013.0,Denver Nuggets
+20,Minnesota,2015,72287243.0,89757304.0,Minnesota Timberwolves
+21,Atlanta,2015,71661760.0,88980657.0,Atlanta Hawks
+22,Indiana,2015,71605233.0,88910467.0,Indiana Pacers
+23,Toronto,2015,71591189.0,88893031.0,Toronto Raptors
+24,Sacramento,2015,70610560.0,87675408.0,Sacramento Kings
+25,Phoenix,2015,68095365.0,84552350.0,Phoenix Suns
+26,Philadelphia,2015,64583220.0,80191403.0,Philadelphia 76ers
+27,Utah,2015,63608425.0,78981025.0,Utah Jazz
+28,Orlando,2015,63199651.0,78473460.0,Orlando Magic
+29,Portland,2015,61685814.0,76593768.0,Portland Trail Blazers
+0,Cleveland,2016,128522489.0,158007391.0,Cleveland Cavaliers
+1,Portland,2016,119732234.0,147200523.0,Portland Trail Blazers
+2,LA Clippers,2016,114756766.0,141083612.0,Los Angeles Clippers
+3,San Antonio,2016,112017779.0,137716263.0,San Antonio Spurs
+4,Memphis,2016,110083520.0,135338255.0,Memphis Grizzlies
+5,Toronto,2016,108599970.0,133514359.0,Toronto Raptors
+6,Detroit,2016,106492988.0,130924005.0,Detroit Pistons
+7,Orlando,2016,104096951.0,127978282.0,Orlando Magic
+8,Washington,2016,104016580.0,127879474.0,Washington Wizards
+9,Charlotte,2016,103054004.0,126696067.0,Charlotte Hornets
+10,New York,2016,102593418.0,126129816.0,New York Knicks
+11,Dallas,2016,102354966.0,125836657.0,Dallas Mavericks
+12,New Orleans,2016,101616451.0,124928717.0,New Orleans Pelicans
+13,Golden State,2016,101584835.0,124889848.0,Golden State Warriors
+14,Miami,2016,100740770.0,123852145.0,Miami Heat
+15,Atlanta,2016,96315163.0,118411239.0,Atlanta Hawks
+16,Milwaukee,2016,96245877.0,118326058.0,Milwaukee Bucks
+17,Sacramento,2016,95596327.0,117527493.0,Sacramento Kings
+18,LA Lakers,2016,94781848.0,116526161.0,Los Angeles Lakers
+19,Boston,2016,93465326.0,114907608.0,Boston Celtics
+20,Chicago,2016,92522306.0,113748249.0,Chicago Bulls
+21,Oklahoma City,2016,91230089.0,112159578.0,Oklahoma City Thunder
+22,Houston,2016,90956067.0,111822691.0,Houston Rockets
+23,Indiana,2016,90279072.0,110990380.0,Indiana Pacers
+24,Phoenix,2016,89754590.0,110345576.0,Phoenix Suns
+25,Philadelphia,2016,84775343.0,104224013.0,Philadelphia 76ers
+26,Denver,2016,83836460.0,103069738.0,Denver Nuggets
+27,Minnesota,2016,83527580.0,102689999.0,Minnesota Timberwolves
+28,Brooklyn,2016,82391482.0,101293262.0,Brooklyn Nets
+29,Utah,2016,80138192.0,98523038.0,Utah Jazz
+0,Cleveland,2017,137722926.0,166597194.0,Cleveland Cavaliers
+1,Golden State,2017,137610134.0,166460754.0,Golden State Warriors
+2,Oklahoma City,2017,134534640.0,162740467.0,Oklahoma City Thunder
+3,Miami,2017,133624374.0,161639360.0,Miami Heat
+4,Washington,2017,123306396.0,149158166.0,Washington Wizards
+5,New Orleans,2017,120814452.0,146143773.0,New Orleans Pelicans
+6,Milwaukee,2017,120521249.0,145789098.0,Milwaukee Bucks
+7,Houston,2017,119905532.0,145044290.0,Houston Rockets
+8,Detroit,2017,119773191.0,144884208.0,Detroit Pistons
+9,LA Clippers,2017,119093010.0,144061426.0,Los Angeles Clippers
+10,Portland,2017,118708146.0,143595874.0,Portland Trail Blazers
+11,Charlotte,2017,117382664.0,141992499.0,Charlotte Hornets
+12,Toronto,2017,116929373.0,141444173.0,Toronto Raptors
+13,Minnesota,2017,116075131.0,140410835.0,Minnesota Timberwolves
+14,Boston,2017,115284776.0,139454775.0,Boston Celtics
+15,San Antonio,2017,114633844.0,138667375.0,San Antonio Spurs
+16,Memphis,2017,110700149.0,133908961.0,Memphis Grizzlies
+17,Denver,2017,107543599.0,130090627.0,Denver Nuggets
+18,Utah,2017,105606838.0,127747809.0,Utah Jazz
+19,New York,2017,105403130.0,127501394.0,New York Knicks
+20,LA Lakers,2017,103126557.0,124747524.0,Los Angeles Lakers
+21,Philadelphia,2017,100797386.0,121930035.0,Philadelphia 76ers
+22,Atlanta,2017,99992696.0,120956634.0,Atlanta Hawks
+23,Sacramento,2017,99587185.0,120466111.0,Sacramento Kings
+24,Orlando,2017,98700258.0,119393235.0,Orlando Magic
+25,Brooklyn,2017,95475397.0,115492262.0,Brooklyn Nets
+26,Indiana,2017,95271736.0,115245904.0,Indiana Pacers
+27,Phoenix,2017,92684083.0,112115739.0,Phoenix Suns
+28,Chicago,2017,90466801.0,109433589.0,Chicago Bulls
+29,Dallas,2017,85440245.0,103353192.0,Dallas Mavericks
+0,Miami,2018,153171497.0,180112612.0,Miami Heat
+1,Golden State,2018,146291276.0,172022240.0,Golden State Warriors
+2,Oklahoma City,2018,144916427.0,170405569.0,Oklahoma City Thunder
+3,Toronto,2018,137793831.0,162030191.0,Toronto Raptors
+4,Milwaukee,2018,130988604.0,154028001.0,Milwaukee Bucks
+5,Portland,2018,130256600.0,153167248.0,Portland Trail Blazers
+6,Detroit,2018,126557932.0,148818022.0,Detroit Pistons
+7,Houston,2018,126474100.0,148719446.0,Houston Rockets
+8,Boston,2018,125334993.0,147379986.0,Boston Celtics
+9,Memphis,2018,125188633.0,147207879.0,Memphis Grizzlies
+10,Washington,2018,123747588.0,145513371.0,Washington Wizards
+11,New York,2018,123387454.0,145089896.0,New York Knicks
+12,Cleveland,2018,123255073.0,144934229.0,Cleveland Cavaliers
+13,Minnesota,2018,121962221.0,143413977.0,Minnesota Timberwolves
+14,San Antonio,2018,121588790.0,142974866.0,San Antonio Spurs
+15,Charlotte,2018,121427859.0,142785633.0,Charlotte Hornets
+16,Brooklyn,2018,118850600.0,139755056.0,Brooklyn Nets
+17,Denver,2018,118327016.0,139139384.0,Denver Nuggets
+18,LA Clippers,2018,118026816.0,138786382.0,Los Angeles Clippers
+19,New Orleans,2018,116052756.0,136465107.0,New Orleans Pelicans
+20,Philadelphia,2018,115127167.0,135376714.0,Philadelphia 76ers
+21,Orlando,2018,114394213.0,134514847.0,Orlando Magic
+22,Utah,2018,113826156.0,133846874.0,Utah Jazz
+23,Chicago,2018,112598201.0,132402931.0,Chicago Bulls
+24,Indiana,2018,110724804.0,130200029.0,Indiana Pacers
+25,Phoenix,2018,108692835.0,127810656.0,Phoenix Suns
+26,LA Lakers,2018,107225482.0,126085215.0,Los Angeles Lakers
+27,Sacramento,2018,101466920.0,119313786.0,Sacramento Kings
+28,Dallas,2018,86958881.0,102253953.0,Dallas Mavericks
+29,Atlanta,2018,79180081.0,93106946.0,Atlanta Hawks
+0,Oklahoma City,2019,132017938.0,152720804.0,Oklahoma City Thunder
+1,Portland,2019,131979953.0,152676863.0,Portland Trail Blazers
+2,LA Clippers,2019,131506341.0,152128979.0,Los Angeles Clippers
+3,Cleveland,2019,131059022.0,151611509.0,Cleveland Cavaliers
+4,Philadelphia,2019,129912339.0,150285008.0,Philadelphia 76ers
+5,Miami,2019,129867871.0,150233567.0,Miami Heat
+6,Golden State,2019,129254928.0,149524506.0,Golden State Warriors
+7,Denver,2019,128746180.0,148935975.0,Denver Nuggets
+8,Houston,2019,128109922.0,148199940.0,Houston Rockets
+9,Orlando,2019,126095610.0,145869745.0,Orlando Magic
+10,LA Lakers,2019,123971686.0,143412750.0,Los Angeles Lakers
+11,Milwaukee,2019,122612183.0,141840052.0,Milwaukee Bucks
+12,Toronto,2019,122463495.0,141668046.0,Toronto Raptors
+13,Washington,2019,121296256.0,140317762.0,Washington Wizards
+14,Dallas,2019,120871082.0,139825913.0,Dallas Mavericks
+15,San Antonio,2019,119217331.0,137912823.0,San Antonio Spurs
+16,Utah,2019,118910311.0,137557656.0,Utah Jazz
+17,Brooklyn,2019,118889943.0,137534093.0,Brooklyn Nets
+18,New Orleans,2019,117868297.0,136352236.0,New Orleans Pelicans
+19,Boston,2019,117759332.0,136226186.0,Boston Celtics
+20,Minnesota,2019,114202982.0,132112131.0,Minnesota Timberwolves
+21,Sacramento,2019,113796966.0,131642442.0,Sacramento Kings
+22,Indiana,2019,112872260.0,130572726.0,Indiana Pacers
+23,Chicago,2019,112601901.0,130259969.0,Chicago Bulls
+24,Atlanta,2019,110702618.0,128062845.0,Atlanta Hawks
+25,Detroit,2019,104527576.0,120919438.0,Detroit Pistons
+26,New York,2019,100232129.0,115950387.0,New York Knicks
+27,Phoenix,2019,98539675.0,113992525.0,Phoenix Suns
+28,Memphis,2019,98495848.0,113941826.0,Memphis Grizzlies
+29,Charlotte,2019,96552033.0,111693183.0,Charlotte Hornets
+0,Golden State,2020,171105334.0,196667884.0,Golden State Warriors
+1,Brooklyn,2020,170444633.0,195908476.0,Brooklyn Nets
+2,Philadelphia,2020,147825311.0,169909902.0,Philadelphia 76ers
+3,LA Clippers,2020,139722606.0,160596683.0,Los Angeles Clippers
+4,LA Lakers,2020,139334713.0,160150838.0,Los Angeles Lakers
+5,Utah,2020,136881324.0,157330923.0,Utah Jazz
+6,Milwaukee,2020,136623929.0,157035070.0,Milwaukee Bucks
+7,Miami,2020,134731235.0,154859617.0,Miami Heat
+8,New Orleans,2020,133901495.0,153905916.0,New Orleans Pelicans
+9,Boston,2020,132931565.0,152791083.0,Boston Celtics
+10,Memphis,2020,132022601.0,151746320.0,Memphis Grizzlies
+11,Portland,2020,131904647.0,151610748.0,Portland Trail Blazers
+12,Houston,2020,131784255.0,151472362.0,Houston Rockets
+13,Washington,2020,131294012.0,150908882.0,Washington Wizards
+14,Minnesota,2020,130334934.0,149806526.0,Minnesota Timberwolves
+15,Indiana,2020,130237102.0,149694076.0,Indiana Pacers
+16,Denver,2020,129793210.0,149183867.0,Denver Nuggets
+17,Cleveland,2020,129605319.0,148967902.0,Cleveland Cavaliers
+18,San Antonio,2020,129537825.0,148890327.0,San Antonio Spurs
+19,Toronto,2020,129131910.0,148423773.0,Toronto Raptors
+20,Chicago,2020,128963580.0,148230296.0,Chicago Bulls
+21,Phoenix,2020,128858241.0,148109217.0,Phoenix Suns
+22,Dallas,2020,127657823.0,146729462.0,Dallas Mavericks
+23,Orlando,2020,121739163.0,139926571.0,Orlando Magic
+24,Atlanta,2020,118804016.0,136552926.0,Atlanta Hawks
+25,Detroit,2020,117041599.0,134527206.0,Detroit Pistons
+26,Charlotte,2020,108218809.0,124386327.0,Charlotte Hornets
+27,Sacramento,2020,106847430.0,122810063.0,Sacramento Kings
+28,New York,2020,102137151.0,117396083.0,New York Knicks
+29,Oklahoma City,2020,95774839.0,110083267.0,Oklahoma City Thunder
+0,Golden State,2021,178980766.0,195195980.0,Golden State Warriors
+1,Brooklyn,2021,174811922.0,190649447.0,Brooklyn Nets
+2,LA Clippers,2021,168378382.0,183633046.0,Los Angeles Clippers
+3,LA Lakers,2021,164409293.0,179304361.0,Los Angeles Lakers
+4,Milwaukee,2021,160875421.0,175450332.0,Milwaukee Bucks
+5,Utah,2021,149760719.0,163328668.0,Utah Jazz
+6,Philadelphia,2021,148922969.0,162415018.0,Philadelphia 76ers
+7,Miami,2021,140840240.0,153600014.0,Miami Heat
+8,Indiana,2021,138181486.0,150700383.0,Indiana Pacers
+9,Denver,2021,137963926.0,150463115.0,Denver Nuggets
+10,Minnesota,2021,137432702.0,149883767.0,Minnesota Timberwolves
+11,Boston,2021,136557646.0,148929426.0,Boston Celtics
+12,Phoenix,2021,136476474.0,148840901.0,Phoenix Suns
+13,Cleveland,2021,136385911.0,148742131.0,Cleveland Cavaliers
+14,Chicago,2021,136083814.0,148412668.0,Chicago Bulls
+15,New Orleans,2021,135793968.0,148096563.0,New Orleans Pelicans
+16,Atlanta,2021,135166020.0,147411722.0,Atlanta Hawks
+17,Toronto,2021,134896484.0,147117769.0,Toronto Raptors
+18,Houston,2021,132267085.0,144250150.0,Houston Rockets
+19,Detroit,2021,131120355.0,142999530.0,Detroit Pistons
+20,Sacramento,2021,130457848.0,142277004.0,Sacramento Kings
+21,Washington,2021,128019790.0,139618062.0,Washington Wizards
+22,San Antonio,2021,127655401.0,139220659.0,San Antonio Spurs
+23,Orlando,2021,126786646.0,138273195.0,Orlando Magic
+24,Dallas,2021,126696965.0,138175392.0,Dallas Mavericks
+25,Portland,2021,124788473.0,136093994.0,Portland Trail Blazers
+26,Charlotte,2021,122139566.0,133205107.0,Charlotte Hornets
+27,New York,2021,120644081.0,131574134.0,New York Knicks
+28,Memphis,2021,117284457.0,127910133.0,Memphis Grizzlies
+29,Oklahoma City,2021,82022873.0,89453934.0,Oklahoma City Thunder
+0,Golden State,2022,192386134.0,203984702.0,Golden State Warriors
+1,Brooklyn,2022,159566723.0,169186672.0,Brooklyn Nets
+2,LA Clippers,2022,192905421.0,204535294.0,Los Angeles Clippers
+3,LA Lakers,2022,169391473.0,179603738.0,Los Angeles Lakers
+4,Milwaukee,2022,182930771.0,193959293.0,Milwaukee Bucks
+5,Utah,2022,148738241.0,157705365.0,Utah Jazz
+6,Philadelphia,2022,150496913.0,159570063.0,Philadelphia 76ers
+7,Miami,2022,151408266.0,160536360.0,Miami Heat
+8,Indiana,2022,125706114.0,133284674.0,Indiana Pacers
+9,Denver,2022,162338665.0,172125732.0,Denver Nuggets
+10,Minnesota,2022,145793656.0,154583256.0,Minnesota Timberwolves
+11,Boston,2022,178633307.0,189402747.0,Boston Celtics
+12,Phoenix,2022,176042453.0,186655694.0,Phoenix Suns
+13,Cleveland,2022,151966241.0,161127975.0,Cleveland Cavaliers
+14,Chicago,2022,151964990.0,161126647.0,Chicago Bulls
+15,New Orleans,2022,148360910.0,157305287.0,New Orleans Pelicans
+16,Atlanta,2022,149836313.0,158869639.0,Atlanta Hawks
+17,Toronto,2022,150992313.0,160095330.0,Toronto Raptors
+18,Houston,2022,137579793.0,145874191.0,Houston Rockets
+19,Detroit,2022,129153570.0,136939969.0,Detroit Pistons
+20,Sacramento,2022,139423615.0,147829176.0,Sacramento Kings
+21,Washington,2022,152008934.0,161173239.0,Washington Wizards
+22,San Antonio,2022,104545376.0,110848194.0,San Antonio Spurs
+23,Orlando,2022,126107324.0,133710077.0,Orlando Magic
+24,Dallas,2022,177244238.0,187929929.0,Dallas Mavericks
+25,Portland,2022,144997250.0,153738833.0,Portland Trail Blazers
+26,Charlotte,2022,125874047.0,133462735.0,Charlotte Hornets
+27,New York,2022,148987936.0,157970114.0,New York Knicks
+28,Memphis,2022,127139520.0,134804500.0,Memphis Grizzlies
+29,Oklahoma City,2022,148856338.0,157830582.0,Oklahoma City Thunder
+0,Golden State,2023,209354737.0,215575491.0,Golden State Warriors
+1,Brooklyn,2023,155015136.0,159621241.0,Brooklyn Nets
+2,LA Clippers,2023,201366679.0,207350074.0,Los Angeles Clippers
+3,LA Lakers,2023,169876920.0,174924626.0,Los Angeles Lakers
+4,Milwaukee,2023,187346674.0,192913480.0,Milwaukee Bucks
+5,Utah,2023,133738448.0,137712338.0,Utah Jazz
+6,Philadelphia,2023,166271894.0,171212482.0,Philadelphia 76ers
+7,Miami,2023,177143542.0,182407172.0,Miami Heat
+8,Indiana,2023,148722330.0,153141451.0,Indiana Pacers
+9,Denver,2023,180922992.0,186298923.0,Denver Nuggets
+10,Minnesota,2023,166434327.0,171379743.0,Minnesota Timberwolves
+11,Boston,2023,186940921.0,192495669.0,Boston Celtics
+12,Phoenix,2023,193838882.0,199598596.0,Phoenix Suns
+13,Cleveland,2023,166874287.0,171832777.0,Cleveland Cavaliers
+14,Chicago,2023,165630436.0,170551964.0,Chicago Bulls
+15,New Orleans,2023,167403924.0,172378150.0,New Orleans Pelicans
+16,Atlanta,2023,159153393.0,163882464.0,Atlanta Hawks
+17,Toronto,2023,163054678.0,167899669.0,Toronto Raptors
+18,Houston,2023,149356730.0,153794701.0,Houston Rockets
+19,Detroit,2023,139233014.0,143370164.0,Detroit Pistons
+20,Sacramento,2023,153564021.0,158127009.0,Sacramento Kings
+21,Washington,2023,150856313.0,155338839.0,Washington Wizards
+22,San Antonio,2023,142867770.0,147112925.0,San Antonio Spurs
+23,Orlando,2023,132643598.0,136584956.0,Orlando Magic
+24,Dallas,2023,167755884.0,172740566.0,Dallas Mavericks
+25,Portland,2023,165263993.0,170174630.0,Portland Trail Blazers
+26,Charlotte,2023,135774484.0,139808870.0,Charlotte Hornets
+27,New York,2023,164990518.0,169893032.0,New York Knicks
+28,Memphis,2023,162649524.0,167482470.0,Memphis Grizzlies
+29,Oklahoma City,2023,162515272.0,167344233.0,Oklahoma City Thunder
+0,GoldenState,2024,170316619.0,170316619.0,Golden State Warriors
+1,Brooklyn,2024,168312896.0,168312896.0,Brooklyn Nets
+2,LA Clippers,2024,174124752.0,174124752.0,Los Angeles Clippers
+3,LA Lakers,2024,192057940.0,192057940.0,Los Angeles Lakers
+4,Milwaukee,2024,182559432.0,182559432.0,Milwaukee Bucks
+5,Utah,2024,154060898.0,154060898.0,Utah Jazz
+6,Philadelphia,2024,171336738.0,171336738.0,Philadelphia 76ers
+7,Miami,2024,176102077.0,176102077.0,Miami Heat
+8,Indiana,2024,166742248.0,166742248.0,Indiana Pacers
+9,Denver,2024,185864258.0,185864258.0,Denver Nuggets
+10,Minnesota,2024,203708244.0,203708244.0,Minnesota Timberwolves
+11,Boston,2024,195348491.0,195348491.0,Boston Celtics
+12,Phoenix,2024,220708856.0,220708856.0,Phoenix Suns
+13,Cleveland,2024,165110486.0,165110486.0,Cleveland Cavaliers
+14,Chicago,2024,165722496.0,165722496.0,Chicago Bulls
+15,New Orleans,2024,172778396.0,172778396.0,New Orleans Pelicans
+16,Atlanta,2024,170057021.0,170057021.0,Atlanta Hawks
+17,Toronto,2024,170516134.0,170516134.0,Toronto Raptors
+18,Houston,2024,163038023.0,163038023.0,Houston Rockets
+19,Detroit,2024,140501660.0,140501660.0,Detroit Pistons
+20,Sacramento,2024,167811057.0,167811057.0,Sacramento Kings
+21,Washington,2024,173806822.0,173806822.0,Washington Wizards
+22,San Antonio,2024,162395330.0,162395330.0,San Antonio Spurs
+23,Orlando,2024,152308863.0,152308863.0,Orlando Magic
+24,Dallas,2024,174411922.0,174411922.0,Dallas Mavericks
+25,Portland,2024,167012048.0,167012048.0,Portland Trail Blazers
+26,Charlotte,2024,168575524.0,168575524.0,Charlotte Hornets
+27,New York,2024,191906878.0,191906878.0,New York Knicks
+28,Memphis,2024,165903638.0,165903638.0,Memphis Grizzlies
+29,Oklahoma City,2024,166418720.0,166418720.0,Oklahoma City Thunder
