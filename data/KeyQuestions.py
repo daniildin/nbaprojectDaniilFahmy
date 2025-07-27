@@ -3,6 +3,7 @@
 Do superteams win more games than balanced teams?
 - Are superteams more expensive per win (Cost per Win)?
 - Do they generate more revenue per win (Revenue Efficiency)?
+
 - Are superteams “boom or bust”?
 (i.e., do they have higher variance in results?)
 
