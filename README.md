@@ -12,7 +12,7 @@
 
 In the age of superteams, where franchises stack MVP-caliber talent via trades or free agency, the NBA has seen dramatic shifts in competitive balance and financial strategy. This project explores a fundamental question:
 
-**Are superteams actually worth it—financially and competitively—compared to balanced teams?**
+**Are superteams actually worth it financially and competitively compared to balanced teams?**
 
 Using a dataset of team stats, payroll, revenue, and playoff performance from **2000 to 2025**, we built a comprehensive analysis pipeline to:
 
@@ -25,7 +25,7 @@ Using a dataset of team stats, payroll, revenue, and playoff performance from **
 
 ## Objective
 
-The NBA has evolved from traditional rosters to modern “superteams” constructed around All-Star trios (e.g., LeBron–Wade–Bosh). These teams often dominate media, attract ticket sales, and influence global fanbases—but at what cost?
+The NBA has evolved from traditional rosters to modern “superteams” constructed around All-Star trios (e.g., LeBron–Wade–Bosh). These teams often dominate media, attract ticket sales, and influence global fanbases, but at what cost?
 
 This project aims to answer:
 - Do superteams consistently **outperform balanced teams**?
@@ -151,7 +151,7 @@ We explored the **standard deviation** in wins across seasons for each team, the
 
 ## Conclusion
 
-Superteams dominate headlines—and based on the data, they **also dominate performance and revenue**. While they cost more per win, the return they generate makes them a **stable, high-yield investment**.
+Superteams dominate headlines and based on the data, they **also dominate performance and revenue**. While they cost more per win, the return they generate makes them a **stable, high-yield investment**.
 
 Balanced teams, while cheaper, show greater variance. This can lead to surprise playoff runs or total collapses. From a business perspective, **superteams offer better predictability and monetization potential**.
 
@@ -159,7 +159,7 @@ Ultimately, our analysis provides a **data-driven framework** for understanding 
 
 After analyzing 25 years of NBA data, we found that superteams do offer measurable advantages: they win more games, generate more revenue per win, and provide greater predictability for team owners and investors. However, they also come with significantly higher financial costs and greater pressure to perform.
 In contrast, balanced teams are more cost-efficient but have wider performance variability, capable of both surprise success and total collapse.
-Ultimately, superteams are a high-risk, high-reward strategy, best suited for franchises willing to invest heavily in talent for immediate results. As the NBA imposes stricter salary cap rules, the path forward will require smarter, data-driven roster decisions—not just star power.
+Ultimately, superteams are a high-risk, high-reward strategy, best suited for franchises willing to invest heavily in talent for immediate results. As the NBA imposes stricter salary cap rules, the path forward will require smarter, data-driven roster decisions, not just star power.
 Answer:
 Superteams can be worth it, but only when paired with efficiency, smart contracts, and strong team culture.
 
